@@ -67,6 +67,7 @@ a:visited { color: #307EA9; }
   font-size: 30px;
   margin: 10px;
   transition: color 0.5s;
+  color: #2b2b2b
 }
 
 .header > .logo:hover {
