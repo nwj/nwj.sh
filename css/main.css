@@ -3,27 +3,46 @@
   margin: 0;
   padding: 0;
   border: 0;
-}
-
-html, body { height: 100%; }
-
-body {
-  background-color: #FFF;
-  font: 18px Helvetica, Arial, sans-serif;
+  font: inherit;
+  font-size: 100%;
+  font-family: Helvetica, Arial, sans-serif;
   color: #2b2b2b;
   text-align: left;
   vertical-align: baseline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+/* Style Common Elements */
+h1, h2, h3 {
+  position: relative;
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 0 10px 0 15px;
+  border-left: 5px solid #f59e00;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin: 0px 10px 25px 20px;
+}
 
 a {
   color: #307EA9;
   text-decoration: none;
 }
 
-a:hover   { color: #307EA9; }
+a:hover { color: #307EA9; }
 
 a:visited { color: #307EA9; }
 
@@ -84,3 +103,6 @@ a:visited { color: #307EA9; }
   width: 650px;
   margin: auto;
 }
+
+
+
