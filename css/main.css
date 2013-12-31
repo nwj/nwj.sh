@@ -12,12 +12,9 @@
 }
 
 /* Style Common Elements */
+
 h1, h2, h3 {
-  position: relative;
   font-weight: bold;
-  margin: 20px 0;
-  padding: 0 10px 0 15px;
-  border-left: 5px solid #f59e00;
 }
 
 h1 {
@@ -33,9 +30,8 @@ h3 {
 }
 
 p {
-    font-size: 20px;
-    margin: 0px 10px 25px 20px;
-    line-height: 30px;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 a {
@@ -46,6 +42,20 @@ a {
 a:hover { color: #307EA9; }
 
 a:visited { color: #307EA9; }
+
+ul.no-bullets {
+  list-style: none;
+}
+
+li {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+strong {
+  font-weight: bold
+}
 
 /* Clearfix */
 .group:after {
@@ -100,11 +110,22 @@ a:visited { color: #307EA9; }
   transition: color 0.5s;
 }
 
-/* Pages */
+/* Page and Post Content */
 .content {
   width: 650px;
   margin: auto;
 }
 
+.content > h1 {
+  margin: 20px 0;
+  padding: 0 10px 0 15px;
+  border-left: 5px solid #f59e00;
+}
 
+.content > p {
+    margin: 0px 10px 25px 20px;
+}
 
+.content > ul {
+  margin: 0px 10px 25px 20px;
+}
