@@ -1,4 +1,6 @@
 <head>
 	<meta charset='utf-8'>
-	<title>{{ Site.Title }}</title>
+	<title>{{ .Site.Title }}</title>
+	<meta name="description" content="{{ .Site.Params.Description }}">
+	<meta name="author" content="{{ .Site.Params.Author }}">
 </head>

@@ -1,3 +1,8 @@
 baseURL = "https://nwj.cc/"
 languageCode = "en-us"
 title = "NWJ"
+theme = "nwj"
+
+[params]
+  description = "Testing 123"
+  author = "Nick Willett-Jeffries"
