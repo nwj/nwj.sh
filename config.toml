@@ -4,5 +4,7 @@ title = "NWJ"
 theme = "nwj"
 
 [params]
-  description = "Testing 123"
   author = "Nick Willett-Jeffries"
+  city = "New York, New York"
+  email = "nwillettjeffries@gmail.com"
+  description = "Testing 123"
