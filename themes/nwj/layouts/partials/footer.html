@@ -1,9 +1,22 @@
 <footer class="main-footer">
-	<p>
+	<div class="copyright-text">
 		&copy; {{ now.Format "2006" }}
-	</p>
-	<p>
-		{{ .Site.Params.Author }} &middot; {{ .Site.Params.City }} &middot;
-		<a href="mailto:{{ .Site.Params.Email }}">Contact</a>
-	</p>
+	</div>
+	<ul class="attribution-list">
+		<li>
+			{{ .Site.Params.Author }}
+		</li>
+		<li>
+			&middot;
+		</li>
+		<li>
+			{{ .Site.Params.City }}
+		</li>
+		<li>
+			&middot;
+		</li>
+		<li>
+			<a href="mailto:{{ .Site.Params.Email }}">Contact</a>
+		</li>
+	</ul>
 </footer>
