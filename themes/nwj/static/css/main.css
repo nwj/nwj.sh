@@ -1,0 +1,99 @@
+body {
+	background-color: #EBECED;
+	color: #444444;
+	font-family: 'Merriweather', serif;
+	max-width: 550px;
+	margin: auto;
+	padding: 0 20px;
+}
+
+a {
+	color: #105350;
+	text-decoration: none;
+	border-bottom: 1px solid #bfbfbf;
+}
+
+a:hover {
+	color: #35827A;
+}
+
+p {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.site-title {
+	letter-spacing: 2px;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+.site-title a {
+	border-bottom: none;
+}
+
+.main-nav {
+	font-size: 18px;
+	margin-bottom: 60px;
+}
+
+.main-nav ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+}
+
+.main-nav li {
+	margin: 0 5px;
+}
+
+.main-nav li.active {
+	font-weight: 700;
+}
+
+.content-list {
+	list-style: none;
+}
+
+.content-list li {
+	margin: 40px 0;
+}
+
+.content-list .content-date {
+	font-weight: 300;
+	font-size: 16px;
+	margin: 5px 0;
+}
+
+.content-list .content-title {
+	font-size: 20px;
+	margin: 5px 0;
+}
+
+.content-list .content-description {
+	font-weight: 300;
+	font-size: 20px;
+	margin: 5px 0;
+}
+
+.main-footer {
+	font-weight: 300;
+	font-size: 14px;	
+	margin-top: 80px;
+}
+
+.main-footer .copyright-text {
+	text-align: center;
+}
+
+.main-footer .attribution-list {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	margin-top: 5px;
+}
+
+.main-footer .attribution-list li {
+	margin: 0 2px;
+}
