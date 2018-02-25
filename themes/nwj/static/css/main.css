@@ -82,6 +82,7 @@ h2 {
 .content-list .content-description {
 	font-weight: 300;
 	font-size: 20px;
+	line-height: 30px;
 	margin: 5px 0;
 }
 
@@ -100,6 +101,7 @@ h2 {
 .content-single .content-description {
 	font-weight: 300;
 	font-size: 20px;
+	line-height: 30px;
 	margin: 5px 0;
 }
 
