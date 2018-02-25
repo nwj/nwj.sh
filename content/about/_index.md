@@ -1,21 +1,19 @@
----
++++
 menu:
   main:
     name: "About"
----
++++
 
 ## Hi. I'm Nick Willett-Jeffries.
 
 I'm a software developer and engineering manager living in NYC.
 
-I currently work at [Braze](https://www.braze.com) (formerly known as "Appboy"), where I manage the dashboard and internal tools engineering teams. I joined them in 2014 as an early engineering hire and have helped develop their product and grow their team from 20 employees to more than 200.
+I currently work at [Braze](https://www.braze.com) (formerly known as Appboy), where I manage the dashboard and internal tools engineering teams. I joined them in 2014 as an early engineering hire and have helped develop their product and grow their team from 20 employees to more than 200.
 
-In a prior life, I worked in public policy as a policy analyst for the New York State Governor's Office. I still spend a ton of my free time reading and thinking about public policy.
-
-I graduated from Swarthmore College in 2010 with a major in history and a minor in philosophy.
+In a prior life, I worked in public policy as a policy analyst for the New York State Governor's Office. Before that, I was at Swarthmore College studying history and philosophy.
 
 You can find me around the internet on [Github](https://github.com/nwj), [Goodreads](https://www.goodreads.com/nwj_), and [Keybase](https://keybase.io/nwj). In general, I avoid most forms of social media.
 
-I'm always happy to hear from people who share my interests. If you'd like to get in touch, you can reach out to me via email at [nwillettjeffries@gmail.com](mailto:nwillettjeffries@gmail.com). 
+I'm always happy to hear from people who share my interests. If you'd like to get in touch, you can reach me at [nwillettjeffries@gmail.com](mailto:nwillettjeffries@gmail.com). 
 
 
