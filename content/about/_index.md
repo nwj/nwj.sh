@@ -1,7 +1,6 @@
 +++
-menu:
-  main:
-    name: "About"
+[menu.main]
+name = "About"
 +++
 
 ## Hi. I'm Nick Willett-Jeffries.
