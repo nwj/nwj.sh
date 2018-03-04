@@ -1,0 +1,15 @@
+{{ define "main" }}
+	<main>
+		<ul class="book-list">
+			{{ range sort .Site.Data.books "date_read" "desc"}}
+				<li class="book">
+					<h2 class="book-title">{{ .title }}</h2>
+					<h3 class="book-author">by {{ .author }}</h3>
+					{{ if isset . "comments" }}
+						<p class="book-comments">{{ .comments }}</p>
+					{{ end }}
+				</li>
+			{{ end }}
+		</ul>
+	</main>
+{{ end }}
