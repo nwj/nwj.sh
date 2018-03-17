@@ -1,38 +1,30 @@
 body {
-	background-color: #EBECED;
-	color: #444444;
-	font-family: 'Merriweather', serif;
+	background-color: #ffffff;
+	color: #333;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
 	max-width: 550px;
 	margin: auto;
 	padding: 0 20px;
 }
 
 a {
-	color: #105350;
+	color: #35827A;
 	text-decoration: none;
 	border-bottom: 1px solid #bfbfbf;
 }
 
 a:hover {
-	color: #35827A;
+	color: #105350;
 }
 
-p {
-	font-size: 16px;
-	line-height: 26px;
-}
-
-h2 {
-	font-weight: 700;
-	font-size: 24px;
-	margin: 5px 0;
-}
 
 .site-title {
 	letter-spacing: 2px;
 	font-size: 40px;
 	text-align: center;
 	margin-bottom: 40px;
+	font-family: 'Poiret One', sans-serif;
 }
 
 .site-title a {
@@ -40,13 +32,13 @@ h2 {
 }
 
 .main-nav {
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: 60px;
+	font-weight: 300;
 }
 
 .main-nav ul {
 	list-style: none;
-	text-align: center;
 	display: flex;
 	justify-content: center;
 	padding: 0;
@@ -57,78 +49,12 @@ h2 {
 }
 
 .main-nav li.active {
-	font-weight: 700;
-}
-
-.content-list {
-	list-style: none;
-	padding: 0;
-}
-
-.content-list li {
-	margin: 40px 0;
-}
-
-.content-list .content-date {
-	font-weight: 300;
-	font-size: 16px;
-	margin: 5px 0;
-}
-
-.content-list .content-title {
-	font-size: 20px;
-	margin: 5px 0;
-}
-
-.content-list .content-description {
-	font-weight: 300;
-	font-size: 20px;
-	line-height: 30px;
-	margin: 5px 0;
-}
-
-.content-single .content-date {
-	font-weight: 300;
-	font-size: 16px;
-	margin: 5px 0;
-}
-
-.content-single .content-title {
-	font-weight: 700;
-	font-size: 30px;
-	margin: 5px 0;
-}
-
-.content-single .content-description {
-	font-weight: 300;
-	font-size: 20px;
-	line-height: 30px;
-	margin: 5px 0;
-}
-
-.book-list {
-	list-style: none;
-	padding: 0;
-}
-
-.book-list .book {
-	margin: 50px 0;
-}
-
-.book-list .book .book-title {
-	font-size: 22px;
-	margin: 5px 0;
-}
-
-.book-list .book .book-author {
-	font-size: 16px;
-	font-weight: 700;
-	margin: 5px 0;
+	font-weight: 400;
 }
 
 .main-footer {
 	font-weight: 300;
-	font-size: 14px;	
+	font-size: 14px;
 	margin-top: 80px;
 }
 
@@ -146,4 +72,201 @@ h2 {
 
 .main-footer .attribution-list li {
 	margin: 0 2px;
+}
+
+.content-list {
+	list-style: none;
+	padding: 0;
+}
+
+.content-list li {
+	margin: 40px 0;
+}
+
+.content-list .content-date {
+	font-size: 16px;
+	font-weight: 300;
+	margin: 5px 0;
+}
+
+.content-list .content-title {
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 36px;
+	margin: 5px 0;
+}
+
+.content-list .content-description {
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 28px;
+	margin: 5px 0;
+}
+
+.content-single .content-date {
+	font-weight: 300;
+	font-size: 16px;
+	margin: 5px 0;
+}
+
+.content-single .content-title {
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 36px;
+	margin: 5px 0;
+}
+
+.content-single .content-description {
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 28px;
+	margin: 5px 0;
+}
+
+
+.content-single article p {
+	color: #777;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.about article h2 {
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 36px;
+	margin: 5px 0;
+}
+
+.about article p {
+	color: #777;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.book-intro {
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.book-list {
+	list-style: none;
+	padding: 0;
+}
+
+.book-list .book {
+	margin: 40px 0;
+}
+
+.book-list .book .book-title {
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 36px;
+	margin: 5px 0;
+}
+
+.book-list .book .book-author {
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 28px;
+	margin: 5px 0;
+}
+
+.book-list .book .book-comments {
+	color: #777;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+@media (max-width: 450px) {
+	.site-title {
+		letter-spacing: 1px;
+		font-size: 30px;
+		margin-bottom: 30px;
+	}
+
+	.main-nav {
+		font-size: 16px;
+		margin-bottom: 45px;
+	}
+
+	.main-footer {
+		font-size: 12px;
+		margin-top: 55px;
+	}
+
+	.content-list li {
+		margin: 30px 0;
+	}
+
+	.content-list .content-date {
+		font-size: 12px;
+	}
+
+	.content-list .content-title {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.content-list .content-description {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.content-single .content-date {
+		font-size: 12px;
+	}
+
+	.content-single .content-title {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.content-single .content-description {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+
+	.content-single article p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.about article h2 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.about article p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.book-intro {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.book-list .book {
+		margin: 30px 0;
+	}
+
+	.book-list .book .book-title {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.book-list .book .book-author {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.book-list .book .book-comments {
+		font-size: 14px;
+		line-height: 20px;
+	}
 }

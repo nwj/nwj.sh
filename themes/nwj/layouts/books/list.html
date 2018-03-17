@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<main>
-		<p>{{ .Content }}</p>
+		<div class="book-intro">{{ .Content }}</p>
 		<ul class="book-list">
 			{{ range sort .Site.Data.books "date_read" "desc"}}
 				<li class="book">
