@@ -10,8 +10,6 @@ body {
 
 a {
 	color: #35827A;
-	text-decoration: none;
-	border-bottom: 1px solid #bfbfbf;
 }
 
 a:hover {
@@ -28,7 +26,7 @@ a:hover {
 }
 
 .site-title a {
-	border-bottom: none;
+	text-decoration: none;
 }
 
 .main-nav {
@@ -50,6 +48,10 @@ a:hover {
 
 .main-nav li.active {
 	font-weight: 400;
+}
+
+.main-nav li a {
+	text-decoration: none;
 }
 
 .main-footer {
@@ -94,6 +96,10 @@ a:hover {
 	font-weight: 400;
 	line-height: 36px;
 	margin: 5px 0;
+}
+
+.content-list .content-title a {
+	text-decoration: none;
 }
 
 .content-list .content-description {
@@ -165,6 +171,10 @@ a:hover {
 	font-size: 26px;
 	line-height: 36px;
 	margin: 5px 0;
+}
+
+.book-list .book .book-title a {
+	text-decoration: none;
 }
 
 .book-list .book .book-author {
