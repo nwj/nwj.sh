@@ -64,6 +64,11 @@ main {
 	flex: 1 0 auto;
 }
 
+.hr {
+	text-align: center;
+	margin: 25px 0;
+}
+
 .main-footer {
 	font-weight: 300;
 	font-size: 14px;
