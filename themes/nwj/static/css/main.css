@@ -1,3 +1,7 @@
+html, body {
+	height: 100%;
+}
+
 body {
 	background-color: #ffffff;
 	color: #333;
@@ -6,6 +10,8 @@ body {
 	max-width: 550px;
 	margin: auto;
 	padding: 0 20px;
+	display: flex;
+	flex-direction: column;
 }
 
 a {
@@ -54,10 +60,15 @@ a:hover {
 	text-decoration: none;
 }
 
+main {
+	flex: 1 0 auto;
+}
+
 .main-footer {
 	font-weight: 300;
 	font-size: 14px;
 	margin-top: 80px;
+	flex-shrink: 0;
 }
 
 .main-footer .copyright-text {
