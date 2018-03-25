@@ -1,18 +1,18 @@
 {{ define "main" }}
-	<main>
-		<div class="content-single">
-			<h3 class="content-date">
-				{{ .Date.Format "January 2, 2006" }}
-			</h3>
-			<h2 class="content-title">
-				{{ .Title }}
-			</h2>
-			<h3 class="content-description">
-				{{ .Description }}
-			</h3>
-			<article>
-				{{ .Content }}
-			</article>
-		</div>
-	</main>
+        <main>
+                <div class="content-single">
+                        <h3 class="content-date">
+                                {{ .Date.Format "January 2, 2006" }}
+                        </h3>
+                        <h2 class="content-title">
+                                {{ .Title }}
+                        </h2>
+                        <h3 class="content-description">
+                                {{ .Description }}
+                        </h3>
+                        <article>
+                                {{ .Content }}
+                        </article>
+                </div>
+        </main>
 {{ end }}

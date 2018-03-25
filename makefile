@@ -3,12 +3,14 @@
 ## - postcss-cli
 ## - autoprefixer
 ## - stylelint
+## - htmlhint
 
-serve: ## Run a development server
+serve: ## Run the development server
 	hugo server
 
 lint: ## Run all the linters
 	stylelint ./**/*.css
+	htmlhint
 
 fmt: ## Run all the formatters
 	stylelint ./**/*.css --fix
