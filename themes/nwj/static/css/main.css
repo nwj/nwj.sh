@@ -1,298 +1,296 @@
-html, body {
-	height: 100%;
+html {
+  height: 100%;
 }
 
 body {
-	background-color: #ffffff;
-	color: #333;
-	font-family: 'Lato', sans-serif;
-	font-weight: 400;
-	max-width: 550px;
-	margin: auto;
-	padding: 0 20px;
-	display: flex;
-	flex-direction: column;
+  background-color: #fff;
+  color: #333;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  height: 100%;
+  max-width: 550px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
-	color: #35827A;
+  color: #35827a;
 }
 
 a:hover {
-	color: #105350;
+  color: #105350;
 }
 
-
 .site-title {
-	letter-spacing: 2px;
-	font-size: 40px;
-	text-align: center;
-	margin-bottom: 40px;
-	font-family: 'Poiret One', sans-serif;
+  letter-spacing: 2px;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: "Poiret One", sans-serif;
 }
 
 .site-title a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .main-nav {
-	font-size: 20px;
-	margin-bottom: 60px;
-	font-weight: 300;
+  font-size: 20px;
+  margin-bottom: 60px;
+  font-weight: 300;
 }
 
 .main-nav ul {
-	list-style: none;
-	display: flex;
-	justify-content: center;
-	padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
 }
 
 .main-nav li {
-	margin: 0 5px;
+  margin: 0 5px;
 }
 
 .main-nav li.active {
-	font-weight: 400;
+  font-weight: 400;
 }
 
 .main-nav li a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 main {
-	flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .hr {
-	text-align: center;
-	margin: 25px 0;
+  text-align: center;
+  margin: 25px 0;
 }
 
 .main-footer {
-	font-weight: 300;
-	font-size: 14px;
-	margin-top: 80px;
-	flex-shrink: 0;
+  font-weight: 300;
+  font-size: 14px;
+  margin-top: 80px;
+  flex-shrink: 0;
 }
 
 .main-footer .copyright-text {
-	text-align: center;
+  text-align: center;
 }
 
 .main-footer .attribution-list {
-	list-style: none;
-	display: flex;
-	justify-content: center;
-	margin-top: 5px;
-	padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  padding: 0;
 }
 
-.main-footer .attribution-list li {
-	margin: 0 2px;
+.main-footer .attribution-list .attribution-item {
+  margin: 0 2px;
 }
 
 .content-list {
-	list-style: none;
-	padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
-.content-list li {
-	margin: 40px 0;
+.content-list .content-item {
+  margin: 40px 0;
 }
 
 .content-list .content-date {
-	font-size: 16px;
-	font-weight: 300;
-	margin: 5px 0;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 5px 0;
 }
 
 .content-list .content-title {
-	font-size: 26px;
-	font-weight: 400;
-	line-height: 36px;
-	margin: 5px 0;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 36px;
+  margin: 5px 0;
 }
 
 .content-list .content-title a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .content-list .content-description {
-	font-size: 20px;
-	font-weight: 300;
-	line-height: 28px;
-	margin: 5px 0;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 28px;
+  margin: 5px 0;
 }
 
 .content-single .content-date {
-	font-weight: 300;
-	font-size: 16px;
-	margin: 5px 0;
+  font-weight: 300;
+  font-size: 16px;
+  margin: 5px 0;
 }
 
 .content-single .content-title {
-	font-weight: 400;
-	font-size: 26px;
-	line-height: 36px;
-	margin: 5px 0;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  margin: 5px 0;
 }
 
 .content-single .content-description {
-	font-weight: 300;
-	font-size: 20px;
-	line-height: 28px;
-	margin: 5px 0;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 5px 0;
 }
 
-
 .content-single article p {
-	color: #777;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 26px;
+  color: #777;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .about article h2 {
-	font-weight: 400;
-	font-size: 26px;
-	line-height: 36px;
-	margin: 5px 0;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  margin: 5px 0;
 }
 
 .about article p {
-	color: #777;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 26px;
+  color: #777;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .book-intro {
-	font-weight: 300;
-	font-size: 18px;
-	line-height: 26px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .book-list {
-	list-style: none;
-	padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .book-list .book {
-	margin: 40px 0;
+  margin: 40px 0;
 }
 
 .book-list .book .book-title {
-	font-weight: 400;
-	font-size: 26px;
-	line-height: 36px;
-	margin: 5px 0;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  margin: 5px 0;
 }
 
 .book-list .book .book-title a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .book-list .book .book-author {
-	font-weight: 300;
-	font-size: 20px;
-	line-height: 28px;
-	margin: 5px 0;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 5px 0;
 }
 
 .book-list .book .book-comments {
-	color: #777;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 26px;
+  color: #777;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 @media (max-width: 450px) {
-	.site-title {
-		letter-spacing: 1px;
-		font-size: 30px;
-		margin-bottom: 30px;
-	}
+  .site-title {
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
 
-	.main-nav {
-		font-size: 16px;
-		margin-bottom: 45px;
-	}
+  .main-nav {
+    font-size: 16px;
+    margin-bottom: 45px;
+  }
 
-	.main-footer {
-		font-size: 12px;
-		margin-top: 55px;
-	}
+  .main-footer {
+    font-size: 12px;
+    margin-top: 55px;
+  }
 
-	.content-list li {
-		margin: 30px 0;
-	}
+  .content-list li {
+    margin: 30px 0;
+  }
 
-	.content-list .content-date {
-		font-size: 12px;
-	}
+  .content-list .content-date {
+    font-size: 12px;
+  }
 
-	.content-list .content-title {
-		font-size: 20px;
-		line-height: 28px;
-	}
+  .content-list .content-title {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
-	.content-list .content-description {
-		font-size: 16px;
-		line-height: 22px;
-	}
+  .content-list .content-description {
+    font-size: 16px;
+    line-height: 22px;
+  }
 
-	.content-single .content-date {
-		font-size: 12px;
-	}
+  .content-single .content-date {
+    font-size: 12px;
+  }
 
-	.content-single .content-title {
-		font-size: 20px;
-		line-height: 28px;
-	}
+  .content-single .content-title {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
-	.content-single .content-description {
-		font-size: 16px;
-		line-height: 22px;
-	}
+  .content-single .content-description {
+    font-size: 16px;
+    line-height: 22px;
+  }
 
+  .content-single article p {
+    font-size: 14px;
+    line-height: 20px;
+  }
 
-	.content-single article p {
-		font-size: 14px;
-		line-height: 20px;
-	}
+  .about article h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
-	.about article h2 {
-		font-size: 20px;
-		line-height: 28px;
-	}
+  .about article p {
+    font-size: 14px;
+    line-height: 20px;
+  }
 
-	.about article p {
-		font-size: 14px;
-		line-height: 20px;
-	}
+  .book-intro {
+    font-size: 14px;
+    line-height: 20px;
+  }
 
-	.book-intro {
-		font-size: 14px;
-		line-height: 20px;
-	}
+  .book-list .book {
+    margin: 30px 0;
+  }
 
-	.book-list .book {
-		margin: 30px 0;
-	}
+  .book-list .book .book-title {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
-	.book-list .book .book-title {
-		font-size: 20px;
-		line-height: 28px;
-	}
+  .book-list .book .book-author {
+    font-size: 16px;
+    line-height: 22px;
+  }
 
-	.book-list .book .book-author {
-		font-size: 16px;
-		line-height: 22px;
-	}
-
-	.book-list .book .book-comments {
-		font-size: 14px;
-		line-height: 20px;
-	}
+  .book-list .book .book-comments {
+    font-size: 14px;
+    line-height: 20px;
+  }
 }
