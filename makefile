@@ -4,12 +4,14 @@
 ## - autoprefixer
 ## - stylelint
 ## - htmlhint
+## - markdownlint-cli
 
 serve: ## Run the development server
 	hugo server
 
 lint: ## Run all the linters
 	stylelint ./**/*.css
+	markdownlint ./**/*.md
 	htmlhint
 
 fmt: ## Run all the formatters
