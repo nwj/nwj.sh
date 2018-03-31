@@ -1,5 +1,6 @@
 ## DEPENDENCIES
 # - hugo
+# - nodejs
 # - postcss-cli
 # - autoprefixer
 # - cssnano
@@ -47,6 +48,7 @@ minify: minify-css minify-html ## Minify everything in the build directory
 .PHONY: minify
 
 minify-css: ## Minify all css in the build directory
+	postcss $(BUILD_DIR)/**/*.css --use cssnano --replace --no-map 
 .PHONY: minify-css
 
 minify-html: ## Minify all html in the build directory
