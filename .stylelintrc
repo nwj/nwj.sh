@@ -50,7 +50,10 @@
     "color-hex-length": "short",
     "comment-empty-line-before": [ "always", {
       "except": ["first-nested"],
-      "ignore": ["stylelint-commands"]
+      "ignore": [
+        "stylelint-commands",
+        "after-comment"
+      ]
     } ],
     "comment-whitespace-inside": "always",
     "custom-property-empty-line-before": [ "always", {
