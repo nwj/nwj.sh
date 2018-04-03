@@ -1,20 +1,18 @@
-<main>
-        <ul class="content-list">
-                {{ range .Data.Pages }}
-                        <li class="content-item">
-                                <div class="content-date">
-                                        {{ .Date.Format "January 2, 2006" }}
-                                </div>
+<ul class="list">
+        {{ range .Data.Pages }}
+                <li class="list-item">
+                        <div class="date">
+                                {{ .Date.Format "January 2, 2006" }}
+                        </div>
 
-                                <h2 class="content-title">
-                                        <a href="{{ .URL }}">
-                                                {{ .Title }}
-                                        </a>
-                                </h2>
-                                <div class="content-description">
-                                        {{ .Description }}
-                                </div>
-                        </li>
-                {{ end }}
-        </ul>
-</main>
+                        <h2 class="title">
+                                <a href="{{ .URL }}">
+                                        {{ .Title }}
+                                </a>
+                        </h2>
+                        <div class="subtitle">
+                                {{ .Description }}
+                        </div>
+                </li>
+        {{ end }}
+</ul>

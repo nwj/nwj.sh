@@ -1,23 +1,21 @@
-<header>
-        <h1 class="site-title">
+<header class="header">
+        <h1 class="logo">
                 <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         </h1>
-        <nav class="main-nav">
-                <ul>
-                        {{ $currentPage := . }}
-                        {{ $menuCount := sub (len .Site.Menus.main) 1 }}
-                        {{ range $index, $element := .Site.Menus.main }}
-                                <li class='{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'>
-                                        <a href="{{ $element.URL }}">
-                                                {{ $element.Name }}
-                                        </a>
-                                </li>
-                                {{ if ne $index $menuCount }}
-                                        <li>
-                                                &middot;
-                                        </li>
-                                {{ end }}
+        <nav class="nav">
+                {{ $currentPage := . }}
+                {{ $menuCount := sub (len .Site.Menus.main) 1 }}
+                {{ range $index, $element := .Site.Menus.main }}
+                        <div class='nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'>
+                                <a href="{{ $element.URL }}">
+                                        {{ $element.Name }}
+                                </a>
+                        </div>
+                        {{ if ne $index $menuCount }}
+                                <div class="nav-item separator">
+                                        &middot;
+                                </div>
                         {{ end }}
-                </ul>
+                {{ end }}
         </nav>
 </header>

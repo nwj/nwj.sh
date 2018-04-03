@@ -2,9 +2,9 @@
 # - hugo
 # - nodejs
 # - postcss-cli
-# - autoprefixer
+# - cssnext
+# - postcss-normalize
 # - cssnano
-# - precss
 # - stylelint
 # - htmlhint
 # - html-minifier
@@ -41,7 +41,7 @@ compile-markdown: ## Compile markdown to the build directory
 
 $(THEME_CSS_TARGET): $(THEME_CSS_SOURCE)
 	mkdir -p $(dir $@)
-	postcss $< -o $@ -u precss autoprefixer --no-map
+	postcss $< -o $@ -u postcss-cssnext postcss-normalize --no-map
 
 ## Minification
 minify: minify-css minify-html ## Minify everything in the build directory

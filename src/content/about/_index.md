@@ -5,8 +5,6 @@
 
 +++
 
-## Hi. I'm Nick Willett-Jeffries.
-
 I'm a software developer and engineering manager living in NYC.
 
 I currently work at [Braze](https://www.braze.com) (formerly known as Appboy), where I manage the dashboard and internal tools engineering teams. I joined them in 2014 as an early engineering hire and have helped develop their product and grow their team.

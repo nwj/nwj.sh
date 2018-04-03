@@ -1,6 +1,8 @@
 {
   "rules": {
-    "at-rule-no-unknown": true,
+    "at-rule-no-unknown": [ true, {
+      "ignoreAtRules" : ["import-normalize"]
+    } ],
     "block-no-empty": true,
     "color-no-invalid-hex": true,
     "comment-no-empty": true,
@@ -17,7 +19,6 @@
     "function-linear-gradient-no-nonstandard-direction": true,
     "keyframe-declaration-no-important": true,
     "media-feature-name-no-unknown": true,
-    "no-descending-specificity": true,
     "no-duplicate-at-import-rules": true,
     "no-duplicate-selectors": true,
     "no-empty-source": true,
@@ -56,16 +57,6 @@
       ]
     } ],
     "comment-whitespace-inside": "always",
-    "custom-property-empty-line-before": [ "always", {
-      "except": [
-        "after-custom-property",
-        "first-nested"
-      ],
-      "ignore": [
-        "after-comment",
-        "inside-single-line-block"
-      ]
-    } ],
     "declaration-bang-space-after": "never",
     "declaration-bang-space-before": "always",
     "declaration-block-semicolon-newline-after": "always-multi-line",
@@ -121,7 +112,7 @@
     "selector-combinator-space-after": "always",
     "selector-combinator-space-before": "always",
     "selector-descendant-combinator-no-non-space": true,
-    "selector-list-comma-newline-after": "always",
+    "selector-list-comma-newline-after": "never-multi-line",
     "selector-list-comma-space-before": "never",
     "selector-max-empty-lines": 0,
     "selector-pseudo-class-case": "lower",
