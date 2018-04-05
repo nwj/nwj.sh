@@ -17,11 +17,14 @@ SRC_DIR   := ./src
 BUILD_DIR := ./build
 THEME_DIR := $(SRC_DIR)/themes/nwj
 
+## Files
+MANIFEST_FILE := $(SRC_DIR)/data/manifest.toml
+
 ## Sources
-THEME_CSS_SOURCE = $(wildcard $(THEME_DIR)/src/css/*.css)
+THEME_CSS_SOURCE = $(THEME_DIR)/src/css/main.css
 
 ## Targets
-THEME_CSS_TARGET = $(patsubst $(THEME_DIR)/src/css/%.css, $(THEME_DIR)/static/css/%.css, $(THEME_CSS_SOURCE)) 
+THEME_CSS_TARGET = $(THEME_DIR)/static/css/main.$(shell md5 -q $(THEME_CSS_SOURCE)).css
 
 # RULES
 ## Default
@@ -45,6 +48,7 @@ $(THEME_CSS_TARGET): $(THEME_CSS_SOURCE)
 	@echo "Compiling $<..."
 	@mkdir -p $(dir $@)
 	@postcss $< -o $@ -u postcss-cssnext postcss-normalize --no-map
+	@echo '"$(notdir $<)" = "$(notdir $@)"' >> $(MANIFEST_FILE)
 	@echo "Done."
 
 ## Minification
@@ -66,6 +70,7 @@ minify-html: ## Minify all html in the build directory
 ## Cleaning
 clean: ## Remove all build artifacts
 	@echo "Removing build artifacts..."
+	@rm -f $(MANIFEST_FILE)
 	@rm -rf $(THEME_CSS_TARGET)
 	@rm -rf $(BUILD_DIR)
 	@echo "Done."
