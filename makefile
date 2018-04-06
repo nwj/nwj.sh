@@ -71,7 +71,7 @@ minify-html: ## Minify all html in the build directory
 clean: ## Remove all build artifacts
 	@echo "Removing build artifacts..."
 	@rm -f $(MANIFEST_FILE)
-	@rm -rf $(THEME_CSS_TARGET)
+	@rm -rf $(dir $(THEME_CSS_TARGET))
 	@rm -rf $(BUILD_DIR)
 	@echo "Done."
 .PHONY: clean
