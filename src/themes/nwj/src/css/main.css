@@ -16,6 +16,7 @@
   /* TYPOGRAPHY */
   --fontLato: "Lato", sans-serif;
   --fontPoiret: "Poiret One", sans-serif;
+  --fontSourceCodePro: "Source Code Pro", monospace;
   --fontWeightNormal: 400;
   --lineHeightHeader: 1.2;
   --fontSizeBase: 18px;
@@ -38,7 +39,7 @@ body {
   font-family: var(--fontLato);
   font-size: var(--fontSizeBase);
   font-weight: var(--fontWeightNormal);
-  line-height: 1.4;
+  line-height: 1.5;
   color: var(--doveGray);
   background-color: var(--white);
   height: 100%;
@@ -90,6 +91,10 @@ a {
 a:hover {
   color: var(--linkColorHover);
   text-decoration: underline;
+}
+
+code {
+  font-family: var(--fontSourceCodePro);
 }
 
 .header {
