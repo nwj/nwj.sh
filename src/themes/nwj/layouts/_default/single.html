@@ -5,7 +5,9 @@
                                 {{ .Date.Format "January 2, 2006" }}
                         </div>
                         <h2 class="title">
-                                {{ .Title }}
+                                <a href="{{ .Page.URL }}">
+                                        {{ .Title }}
+                                </a>
                         </h2>
                         <div class="subtitle">
                                 {{ .Description }}

@@ -149,6 +149,10 @@ code {
 
       & .title {
         color: var(--scienceBlue);
+
+        & a {
+          text-decoration: none;
+        }
       }
 
       & .subtitle {
