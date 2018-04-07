@@ -9,7 +9,6 @@
 # - htmlhint
 # - html-minifier
 # - markdownlint-cli
-# - fswatch
 
 # VARIABLES
 ## Directories
@@ -113,15 +112,10 @@ lint-markdown: ## Run the markdown linter
 	@echo "Done."
 .PHONY: lint-markdown
 
-serve: ## Run the dev server
+serve: clean compile-css ## Run the dev server
 	@echo "Starting dev server..."
-	@hugo server
+	@hugo server --watch false --buildDrafts
 .PHONY: serve
-
-watch: ## Watch for changes and recompile on change.
-	@echo "Watching for file system changes..."
-	@fswatch src/ --exclude $(THEME_DIR)/static --recursive | xargs -n1 -I {} $(MAKE) compile
-.PHONY: watch
 
 help: ## Print information about this makefile
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
