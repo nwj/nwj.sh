@@ -1,7 +1,15 @@
-#NWJ.cc
-###by nwj
+# NWJ.cc
 
-This is the code for my personal website, hosted at [nwj.cc](http://nwj.cc).
+### by nwj
 
-###Notes
-I use [Jekyll](http://jekyllrb.com/) to generate static html pages based on this code. While I am not currently blogging, that is likely to change. I'm using Jekyll here mostly to leave the door open for that eventuality. 
+This is the code for my personal site, hosted at [nwj.cc](https://nwj.cc)
+
+### Dependencies
+
+- Hugo
+- NodeJS
+- PostCSS
+
+### Deployment
+
+An ansible playbook for deploying the site is kept in my [ansible](https://github.com/nwj/ansible) repo.

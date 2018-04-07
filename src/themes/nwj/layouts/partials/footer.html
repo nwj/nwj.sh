@@ -1,0 +1,22 @@
+<footer class="footer">
+        <div class="copyright">
+                &copy; {{ now.Format "2006" }}
+        </div>
+        <div class="attribution">
+                <div class="author">
+                        {{ .Site.Params.Author }}
+                </div>
+                <div class="separator">
+                        &middot;
+                </div>
+                <div class="city">
+                        {{ .Site.Params.City }}
+                </div>
+                <div class="separator">
+                        &middot;
+                </div>
+                <div class="contact">
+                        <a href="mailto:{{ .Site.Params.Email }}">Contact</a>
+                </div>
+        </div>
+</footer>
