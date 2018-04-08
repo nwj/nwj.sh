@@ -1,3 +1,4 @@
 build
 src/themes/nwj/static/css
 src/data/manifest.toml
+md5.sh
