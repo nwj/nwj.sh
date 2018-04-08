@@ -11,6 +11,9 @@
 # - markdownlint-cli
 
 # VARIABLES
+## Commands
+MD5_COMMAND := md5 -q
+
 ## Directories
 SRC_DIR   := ./src
 BUILD_DIR := ./build
@@ -23,7 +26,7 @@ MANIFEST_FILE := $(SRC_DIR)/data/manifest.toml
 THEME_CSS_SOURCE = $(THEME_DIR)/src/css/main.css
 
 ## Targets
-THEME_CSS_TARGET = $(THEME_DIR)/static/css/main.$(shell md5 -q $(THEME_CSS_SOURCE)).css
+THEME_CSS_TARGET = $(THEME_DIR)/static/css/main.$(shell $(MD5_COMMAND) $(THEME_CSS_SOURCE)).css
 
 # RULES
 ## Default
