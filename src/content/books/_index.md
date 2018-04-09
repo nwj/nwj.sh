@@ -1,4 +1,6 @@
 +++
+title = "Books I Like"
+
 [menu]
   [menu.main]
     name = "Books I Like"

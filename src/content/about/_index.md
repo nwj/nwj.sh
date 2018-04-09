@@ -1,4 +1,6 @@
 +++
+title = "About"
+
 [menu]
   [menu.main]
     name = "About"

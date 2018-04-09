@@ -1,6 +1,6 @@
 <head>
         <meta charset="utf-8">
-        <title>{{ .Site.Title }}</title>
+        <title>{{ .Site.Title }}{{ if (and .Page.Title (ne .Page.Title .Site.Title)) }} - {{ .Page.Title }}{{ end }}</title>
         <meta name="description" content="{{ .Site.Params.Description }}">
         <meta name="author" content="{{ .Site.Params.Author }}">
         <meta name="google-site-verification" content="1Y5Cjm6VIfDLe5INIEeD0Okpl7HPmuEVpN_r9293-PE">
