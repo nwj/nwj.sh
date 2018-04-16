@@ -13,3 +13,5 @@ Anyway, I decided to demystify `make` for myself, by using it to automate the bu
 Overall, though, the experiment was a success. `make` is flexible and I was able to bend it for use in a web development context. I'd absolutely consider it for future web projects, possibly even over newer tools like [Grunt](https://gruntjs.com/) or [Gulp](https://gulpjs.com/).
 
 ### Make Basics
+
+`make` is all about transforming one set of files, called sources, into another set of files, called targets. It does this by referring to a `makefile`, which lists the sources and targets and includes instructions for how they should be mutated.
