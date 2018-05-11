@@ -3,17 +3,22 @@
         <ul class="book-list">
                 {{ range sort .Site.Data.books "date_read" "desc"}}
                         <li class="book">
-                                {{ if isset . "store_url" }}
-                                        <h2 class="title">
-                                                <a href="{{ .store_url }}">{{ .title }}</a>
-                                        </h2>
-                                {{ else }}
-                                        <h2 class="title">{{ .title }}</h2>
-                                {{ end }}
-                                <div class="author">by {{ .author }}</div>
-                                {{ if isset . "comments" }}
-                                        <p class="comments">{{ .comments }}</p>
-                                {{ end }}
+                                <div class="left-col">
+                                        <img class="cover" src="{{ .cover_url }}" alt="{{ .title }} cover" width="150">
+                                </div>
+                                <div class="right-col">
+                                        {{ if isset . "store_url" }}
+                                                <h2 class="title">
+                                                        <a href="{{ .store_url }}">{{ .title }}</a>
+                                                </h2>
+                                        {{ else }}
+                                                <h2 class="title">{{ .title }}</h2>
+                                        {{ end }}
+                                        <div class="author">by {{ .author }}</div>
+                                        {{ if isset . "comments" }}
+                                                <p class="comments">{{ .comments }}</p>
+                                        {{ end }}
+                                </div>
                         </li>
                 {{ end }}
         </ul>

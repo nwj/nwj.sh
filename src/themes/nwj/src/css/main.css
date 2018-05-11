@@ -174,22 +174,32 @@ code {
 
     & .list-item, & .book {
       margin-bottom: var(--spacerTriple);
+      display: flex;
 
-      & .title {
-        & a {
-          text-decoration: none;
+      & .left-col .cover {
+        width: 150px;
+        border-radius: 2px;
+      }
+
+      & .right-col {
+        padding-left: var(--spacerBase);
+
+        & .title {
+          & a {
+            text-decoration: none;
+          }
         }
-      }
 
-      & .subtitle, & .author {
-        font-size: var(--fontSizeXL);
-        margin-bottom: var(--spacerThird);
-        line-height: var(--lineHeightHeader);
-      }
+        & .subtitle, & .author {
+          font-size: var(--fontSizeXL);
+          margin-bottom: var(--spacerThird);
+          line-height: var(--lineHeightHeader);
+        }
 
-      & .date {
-        font-size: var(--fontSizeS);
-        margin-bottom: var(--spacerThird);
+        & .date {
+          font-size: var(--fontSizeS);
+          margin-bottom: var(--spacerThird);
+        }
       }
     }
   }
