@@ -9,6 +9,7 @@
 # - htmlhint
 # - html-minifier
 # - markdownlint-cli
+# - light-server
 
 # VARIABLES
 ## Commands
@@ -115,9 +116,9 @@ lint-markdown: ## Run the markdown linter
 	@echo "Done."
 .PHONY: lint-markdown
 
-serve: clean compile-css ## Run the dev server
+serve: all ## Run the dev server
 	@echo "Starting dev server..."
-	@hugo server --watch false --buildDrafts
+	@light-server -s $(BUILD_DIR) -w "$(SRC_DIR)/** # make" -p 1313
 .PHONY: serve
 
 help: ## Print information about this makefile
