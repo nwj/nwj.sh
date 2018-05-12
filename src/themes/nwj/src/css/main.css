@@ -277,13 +277,19 @@ code {
     & .list, & .book-list {
       & .list-item, & .book {
         margin-bottom: calc(var(--spacerTriple) * var(--mobileMultiplier));
+        flex-direction: column;
 
-        & .subtitle, & .author {
-          font-size: calc(var(--fontSizeXL) * var(--mobileMultiplier));
-        }
+        & .right-col {
+          padding-left: 0;
+          padding-top: calc(var(--spacerBase) * var(--mobileMultiplier));
 
-        & .date {
-          font-size: calc(var(--fontSizeS) * var(--mobileMultiplier));
+          & .subtitle, & .author {
+            font-size: calc(var(--fontSizeXL) * var(--mobileMultiplier));
+          }
+
+          & .date {
+            font-size: calc(var(--fontSizeS) * var(--mobileMultiplier));
+          }
         }
       }
     }
