@@ -174,33 +174,36 @@ code {
 
     & .list-item, & .book {
       margin-bottom: var(--spacerTriple);
-      display: flex;
 
-      & .left-col .cover {
-        width: 150px;
-        border-radius: 2px;
-      }
-
-      & .right-col {
-        padding-left: var(--spacerBase);
-
-        & .title {
-          & a {
-            text-decoration: none;
-          }
-        }
-
-        & .subtitle, & .author {
-          font-size: var(--fontSizeXL);
-          margin-bottom: var(--spacerThird);
-          line-height: var(--lineHeightHeader);
-        }
-
-        & .date {
-          font-size: var(--fontSizeS);
-          margin-bottom: var(--spacerThird);
+      & .title {
+        & a {
+          text-decoration: none;
         }
       }
+
+      & .subtitle, & .author {
+        font-size: var(--fontSizeXL);
+        margin-bottom: var(--spacerThird);
+        line-height: var(--lineHeightHeader);
+      }
+
+      & .date {
+        font-size: var(--fontSizeS);
+        margin-bottom: var(--spacerThird);
+      }
+    }
+  }
+
+  & .book {
+    display: flex;
+
+    & .left-col .cover {
+      width: 150px;
+      border-radius: 2px;
+    }
+
+    & .right-col {
+      padding-left: var(--spacerBase);
     }
   }
 
@@ -277,20 +280,23 @@ code {
     & .list, & .book-list {
       & .list-item, & .book {
         margin-bottom: calc(var(--spacerTriple) * var(--mobileMultiplier));
-        flex-direction: column;
 
-        & .right-col {
-          padding-left: 0;
-          padding-top: calc(var(--spacerBase) * var(--mobileMultiplier));
-
-          & .subtitle, & .author {
-            font-size: calc(var(--fontSizeXL) * var(--mobileMultiplier));
-          }
-
-          & .date {
-            font-size: calc(var(--fontSizeS) * var(--mobileMultiplier));
-          }
+        & .subtitle, & .author {
+          font-size: calc(var(--fontSizeXL) * var(--mobileMultiplier));
         }
+
+        & .date {
+          font-size: calc(var(--fontSizeS) * var(--mobileMultiplier));
+        }
+      }
+    }
+
+    & .book {
+      flex-direction: column;
+
+      & .right-col {
+        padding-left: 0;
+        padding-top: calc(var(--spacerBase) * var(--mobileMultiplier));
       }
     }
 
