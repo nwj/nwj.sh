@@ -97,6 +97,10 @@ code {
   font-family: var(--fontSourceCodePro);
 }
 
+video {
+  margin-bottom: var(--spacerBase);
+}
+
 .header {
   padding: var(--spacerBase) 0 var(--spacerTriple) 0;
 

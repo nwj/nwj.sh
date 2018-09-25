@@ -1,5 +1,5 @@
 {{ define "main" }}
-        {{ with .Site.GetPage "section" "essays" }}
+        {{ with .Site.GetPage "section" "posts" }}
                 {{ partial "list.html" . }}
         {{ end }}
 {{ end }}
