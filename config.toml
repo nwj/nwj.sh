@@ -1,14 +1,6 @@
 baseURL = "https://nwj.cc/"
 languageCode = "en-us"
 title = "NWJ"
-theme = "nwj"
-
-archetypeDir = "src/archetypes"
-contentDir = "src/content"
-dataDir = "src/data"
-layoutDir = "src/layouts"
-staticDir = "src/static"
-themesDir = "src/themes"
 
 [params]
   author = "Nick Willett-Jeffries"
