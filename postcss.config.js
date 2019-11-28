@@ -1,6 +1,11 @@
+const purgecss = require("@fullhuman/postcss-purgecss");
+
 module.exports = {
   plugins: [
-    require('postcss-cssnext'),
-    require('postcss-normalize')
+    require("tailwindcss"),
+    purgecss({
+      content: ["./**/*.html"],
+      defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
+    })
   ]
-}
+};

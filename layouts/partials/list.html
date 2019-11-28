@@ -1,16 +1,16 @@
-<ul class="list">
+<ul>
         {{ range .Data.Pages }}
-                <li class="list-item">
-                        <div class="date">
+                <li class="mb-10">
+                        <div class="text-sm">
                                 {{ .Date.Format "January 2, 2006" }}
                         </div>
 
-                        <h2 class="title">
-                                <a href="{{ .URL }}">
+                        <h1 class="mb-1">
+                                <a class="no-underline" href="{{ .URL }}">
                                         {{ .Title }}
                                 </a>
-                        </h2>
-                        <div class="subtitle">
+                        </h1>
+                        <div class="">
                                 {{ .Description }}
                         </div>
                 </li>

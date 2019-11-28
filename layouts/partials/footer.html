@@ -1,21 +1,21 @@
-<footer class="footer">
-        <div class="copyright">
+<footer class="flex flex-col items-center flex-shrink-0 mt-16 text-xs">
+        <div class="">
                 &copy; {{ now.Format "2006" }}
         </div>
-        <div class="attribution">
-                <div class="author">
+        <div class="flex">
+                <div class="mx-1">
                         {{ .Site.Params.Author }}
                 </div>
-                <div class="separator">
+                <div class="mx-1">
                         &middot;
                 </div>
-                <div class="city">
+                <div class="mx-1">
                         {{ .Site.Params.City }}
                 </div>
-                <div class="separator">
+                <div class="mx-1">
                         &middot;
                 </div>
-                <div class="contact">
+                <div class="mx-1">
                         <a href="mailto:{{ .Site.Params.Email }}">Contact</a>
                 </div>
         </div>

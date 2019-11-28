@@ -1,22 +1,20 @@
 {{ define "main" }}
-        <div class="book-intro">{{ .Content }}</div>
-        <ul class="book-list">
+        <div class="">{{ .Content }}</div>
+        <ul>
                 {{ range sort .Site.Data.books "date_read" "desc"}}
-                        <li class="book">
-                                <div class="left-col">
-                                        <img class="cover" src="{{ .cover_url }}" alt="{{ .title }} cover" width="150">
-                                </div>
-                                <div class="right-col">
+                        <li class="flex flex-col sm:flex-row my-10">
+                                <img class="w-32 h-full rounded-sm flex-shrink-0 mb-1" src="{{ .cover_url }}" alt="{{ .title }} cover">
+                                <div class="sm:ml-4">
                                         {{ if isset . "store_url" }}
-                                                <h2 class="title">
-                                                        <a href="{{ .store_url }}">{{ .title }}</a>
+                                                <h2 class="mb-0">
+                                                        <a class="no-underline" href="{{ .store_url }}">{{ .title }}</a>
                                                 </h2>
                                         {{ else }}
-                                                <h2 class="title">{{ .title }}</h2>
+                                                <h2 class="mb-0">{{ .title }}</h2>
                                         {{ end }}
-                                        <div class="author">by {{ .author }}</div>
+                                        <div class="text-xl">by {{ .author }}</div>
                                         {{ if isset . "comments" }}
-                                                <p class="comments">{{ .comments }}</p>
+                                                <p>{{ .comments }}</p>
                                         {{ end }}
                                 </div>
                         </li>

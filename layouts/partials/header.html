@@ -1,18 +1,14 @@
-<header class="header">
-        <h1 class="logo">
-                <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-        </h1>
-        <nav class="nav">
+<header class="flex flex-col items-center mb-8">
+        <a class="text-5xl font-logo text-blue-700 no-underline" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <nav class="flex text-xl">
                 {{ $currentPage := . }}
                 {{ $menuCount := sub (len .Site.Menus.main) 1 }}
                 {{ range $index, $element := .Site.Menus.main }}
-                        <div class='nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'>
-                                <a href="{{ $element.URL }}">
-                                        {{ $element.Name }}
-                                </a>
-                        </div>
+                        <a class="mx-1 text-gray-900 no-underline {{ if $currentPage.IsMenuCurrent "main" . }}text-blue-700{{ end }}" href="{{ $element.URL }}">
+                                {{ $element.Name }}
+                        </a>
                         {{ if ne $index $menuCount }}
-                                <div class="nav-item separator">
+                                <div class="mx-1">
                                         &middot;
                                 </div>
                         {{ end }}
