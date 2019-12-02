@@ -1,9 +1,9 @@
-+++
-date = "2018-09-23T08:08:54-04:00"
-description = "A tool for learning Starcraft 2 timings"
-draft = false
-title = "Announcing Orbital" 
-+++
+---
+date: "2018-09-23T08:08:54-04:00"
+description: A tool for learning Starcraft 2 timings
+draft: false
+title: Announcing Orbital
+---
 
 [Orbital](https://orbital.build) is a web app that you can use to train builds and timings for pretty much any real time strategy game, though I have been using it specifically for Starcraft 2.
 

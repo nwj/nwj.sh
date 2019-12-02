@@ -1,11 +1,9 @@
-+++
-title = "About"
-
-[menu]
-  [menu.main]
-    name = "About"
-
-+++
+---
+menu:
+  main:
+    name: About
+title: About
+---
 
 I'm a software developer and engineering manager living in NYC.
 
