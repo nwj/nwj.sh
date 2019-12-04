@@ -1,11 +1,16 @@
 {{ define "main" }}
         <article>
-                <div class="text-sm">
-                        {{ .Date.Format "January 2, 2006" }}
-                </div>
                 <h1>
                         {{ .Title }}
                 </h1>
+                <div class="flex text-sm">
+                        {{ with .PublishDate }}
+                                <div>Created: {{ dateFormat "January 2, 2006" . }}</div>
+                        {{ end }}
+                        {{ with .Lastmod }}
+                                <div>Modified: {{ dateFormat "January 2, 2006" . }}</div>
+                        {{ end }}
+                </div>
                 <div>
                         {{ .Content }}
                 </div>

@@ -1,5 +1,20 @@
 {{ define "main" }}
-        {{ with .Site.GetPage "section" "posts" }}
-                {{ partial "list.html" . }}
-        {{ end }}
+        <ul>
+                {{ with .GetPage "orbital" }}
+                        <li class="mb-10">
+                                <div class="text-sm">
+                                        {{ .Date.Format "January 2, 2006" }}
+                                </div>
+
+                                <h1 class="mb-1">
+                                        <a class="no-underline" href="{{ .URL }}">
+                                                {{ .Title }}
+                                        </a>
+                                </h1>
+                                <div class="">
+                                        {{ .Description }}
+                                </div>
+                        </li>
+                {{ end }}
+        </ul>
 {{ end }}

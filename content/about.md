@@ -2,8 +2,10 @@
 menu:
   main:
     name: About
-title: About
+title: About This Website
+publishdate: 2019-10-01
 ---
+Hi, I'm Nick Willett-Jeffries.
 
 I'm a software developer and engineering manager living in NYC.
 
