@@ -1,6 +1,7 @@
 baseURL: "https://nwj.cc/"
 languageCode: "en-us"
 title: "NWJ"
+enableGitInfo: true
 
 params:
   author: "Nick Willett-Jeffries"
