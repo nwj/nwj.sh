@@ -1,15 +1,15 @@
 @tailwind base;
 
 h1 {
-  @apply text-3xl leading-tight;
+  @apply text-4xl leading-tight;
 }
 
 h2 {
-  @apply text-2xl;
+  @apply text-2xl leading-tight;
 }
 
 h1, h2, p {
-  @apply mb-4;
+  @apply mb-3;
 }
 
 a {
