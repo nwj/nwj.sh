@@ -1,9 +1,9 @@
 {{ define "main" }}
         <article>
-                <h1>
+                <h1 class="text-center">
                         {{ .Title }}
                 </h1>
-                <div class="flex flex-wrap text-sm text-gray-700 mb-8">
+                <div class="flex flex-wrap justify-center text-sm text-gray-700 mb-8">
                         {{ with .PublishDate }}
                                 <div class="mr-3">
                                         Created: {{ dateFormat "Jan. 2, 2006" . }}

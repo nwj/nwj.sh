@@ -1,7 +1,7 @@
 {{ define "main" }}
-        <ul>
+        <div>
                 {{ with .GetPage "orbital" }}
-                        <li class="mb-10">
+                        <div class="mb-10">
                                 <div class="text-sm">
                                         {{ .Date.Format "January 2, 2006" }}
                                 </div>
@@ -14,7 +14,7 @@
                                 <div class="">
                                         {{ .Description }}
                                 </div>
-                        </li>
+                        </div>
                 {{ end }}
-        </ul>
+        </div>
 {{ end }}
