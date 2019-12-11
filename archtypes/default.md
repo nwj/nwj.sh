@@ -1,5 +1,5 @@
-+++
-title = "{{ replace .Name "-" " " | title }}"
-publishdate = {{ .Date }}
-tags:
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+publishdate: {{ .Date }}
+disableToc: false
+---

@@ -15,8 +15,14 @@
                                 </div>
                         {{ end }}
                 </div>
-                <div>
-                        {{ .Content }}
-                </div>
+                {{ if not .Params.disableToc }}
+                        <div class="border p-4 mb-4 sm:float-right sm:ml-8 sm:w-40">
+                                <div class="font-medium mb-2">
+                                        Contents
+                                </div>
+                                {{ .TableOfContents }}
+                        </div>
+                {{ end }}
+                {{ .Content }}
         </article>
 {{ end }}

@@ -1,6 +1,7 @@
 ---
 title: About This Website
 publishdate: 2018-02-24
+disableToc: false
 menu:
   main:
     name: About

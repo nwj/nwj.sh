@@ -17,7 +17,7 @@ h4 {
 }
 
 h1, h2, h3, h4 {
-  @apply leading-tight font-serif;
+  @apply leading-tight font-serif overflow-hidden;
 }
 
 h2, h3 {
@@ -50,6 +50,30 @@ ol {
 
 li {
   @apply mb-2;
+}
+
+#TableOfContents ul {
+  @apply list-decimal;
+}
+
+#TableOfContents ul ul {
+  @apply text-sm ml-2;
+}
+
+#TableOfContents ul ul ul {
+  @apply text-xs;
+}
+
+#TableOfContents li {
+  @apply my-1 text-gray-700;
+}
+
+#TableOfContents a {
+  @apply no-underline text-gray-700;
+}
+
+#TableOfContents a:hover {
+  @apply text-blue-500;
 }
 
 @tailwind components;

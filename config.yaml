@@ -8,3 +8,8 @@ params:
   city: "New York, NY"
   email: "hello@nwj.cc"
   description: "The personal site of Nick Willett-Jeffries."
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
