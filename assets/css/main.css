@@ -52,6 +52,10 @@ li {
   @apply mb-2;
 }
 
+code {
+  @apply font-mono text-sm;
+}
+
 #TableOfContents ul {
   @apply list-decimal;
 }

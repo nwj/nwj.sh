@@ -9,9 +9,21 @@ menu:
 
 ## This Website
 
-The motivating idea for this website is that it become a sort of garden that I will tend over time. Revising some parts, pruning others, grafting on new notes.
+The motivating idea for this site is that it become a sort of garden that I will tend over time. Revising some parts, pruning others, grafting on new notes.
 
 Less metaphorically, it is a perpetual draft. I am fascinated by human projects that take a long view, that unfold over the years, and that ultimately reward patience. My ambition is that this website can be such a project for myself.
+
+### Colophon
+
+The core principles guiding the design of `nwj.cc` are:
+
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle).
+- Speed is a feature.
+- Respect your user.
+
+In keeping with those principles, the site is static HTML and CSS. It loads no Javascript at all. All content is written in [CommonMark Markdown](https://commonmark.org/) and compiled to HTML using [Hugo](https://gohugo.io/). Pages are styled via the excellent [TailwindCSS](https://tailwindcss.com/) framework. [Hugo Pipes](https://gohugo.io/hugo-pipes/) and [PostCSS](https://postcss.org/) handle all other asset compilation, such as CSS minification. A full revision history is in git (see [this Github repo](https://github.com/nwj/nwj.cc)).
+
+The site is hosted on the smallest, cheapest [Digital Ocean](https://m.do.co/c/0d70b95f8087) droplet available (currently 1 GB RAM + 1 CPU) and served with [Nginx](https://en.wikipedia.org/wiki/Nginx). It is deployed via [Ansible](https://github.com/nwj/ansible/blob/master/playbooks/blog.yml). The site employs no user tracking code, though I monitor basic traffic using server logs and [GoAccess](https://goaccess.io/).
 
 ## Me
 
