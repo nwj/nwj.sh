@@ -2,6 +2,7 @@
 date: "2018-09-23T08:08:54-04:00"
 description: A tool for learning Starcraft 2 timings
 draft: false
+disableToc: true
 title: Announcing Orbital
 aliases:
   - "/posts/orbital/"
