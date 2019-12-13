@@ -23,7 +23,7 @@ The core principles guiding the design of `nwj.cc` are:
 
 In keeping with those principles, the site is static HTML and CSS. It loads no Javascript at all. All content is written in [CommonMark Markdown](https://commonmark.org/) and compiled to HTML using [Hugo](https://gohugo.io/). Pages are styled via the excellent [TailwindCSS](https://tailwindcss.com/) framework. [Hugo Pipes](https://gohugo.io/hugo-pipes/) and [PostCSS](https://postcss.org/) handle all other asset compilation, such as CSS minification. A full revision history is in git (see [this Github repo](https://github.com/nwj/nwj.cc)).
 
-The site is hosted on the smallest, cheapest [Digital Ocean](https://m.do.co/c/0d70b95f8087) droplet available (currently 1 GB RAM + 1 CPU) and served with [Nginx](https://en.wikipedia.org/wiki/Nginx). It is deployed via [Ansible](https://github.com/nwj/ansible/blob/master/playbooks/blog.yml). The site employs no user tracking code, though I monitor basic traffic using server logs and [GoAccess](https://goaccess.io/).
+The site is hosted on the smallest, cheapest [Digital Ocean](https://m.do.co/c/0d70b95f8087) droplet available (currently 1 GB RAM + 1 CPU) and served with [Nginx](https://en.wikipedia.org/wiki/Nginx). It is deployed using [Ansible](https://github.com/nwj/ansible/blob/master/playbooks/blog.yml). There is no user tracking code, though I monitor basic traffic via server logs and [GoAccess](https://goaccess.io/).
 
 ## Me
 
@@ -42,7 +42,7 @@ I am a software developer and engineering manager living in NYC. Since 2014, I h
 
 #### Hardware
 
-Computer-wise, my daily driver is a 2017 12" MacBook with 16GB of RAM. Apple has since replaced this model with the [MacBook Air](https://www.apple.com/macbook-air/), which is the same idea but with two USB-C ports instead of one and a slightly larger screen. Anyway, this is easily the best computer I have ever owned. It is sleek and thin and light. It has more than enough power for my needs. If I suddenly need a bunch of compute, it's trivial to spin something up on AWS or [Digital Ocean](https://m.do.co/c/0d70b95f8087).
+Computer-wise, my daily driver is a 2017 [MacBook](https://en.m.wikipedia.org/wiki/MacBook_(2015%E2%80%932019)) with 16GB of RAM. Apple has since replaced this model with the [MacBook Air](https://www.apple.com/macbook-air/), which is the same idea but with two USB-C ports instead of one and a slightly larger screen. Anyway, this is easily the best computer I have ever owned. It is sleek and thin and light. It has more than enough power for my needs. If I suddenly need a bunch of compute, it's trivial to spin something up on AWS or [Digital Ocean](https://m.do.co/c/0d70b95f8087).
 
 I also own a [Dell XPS 13](https://www.dell.com/en-us/shop/dell-laptops/xps-13-laptop/spd/xps-13-9380-laptop), which serves solely as a machine for playing StarCraft II. Consequently, it spends most of its time plugged into an [Akitio Node](https://www.amazon.com/gp/product/B06XKKSNTS/) GPU enclosure with a [GeForce GTX 970 Mini](https://www.newegg.com/gigabyte-geforce-gtx-970-gv-n970ixoc-4gd/p/N82E16814125706). Sooner or later, the siren call of PC construction will breach my defenses and I will build a new gaming rig. When that happens, this laptop will likely end up with [Ubuntu](https://ubuntu.com/desktop) on it.
 
