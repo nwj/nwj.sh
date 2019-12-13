@@ -23,6 +23,6 @@
                                 {{ .TableOfContents }}
                         </div>
                 {{ end }}
-                {{ .Content }}
+                {{ partial "header-linking.html" .Content }}
         </article>
 {{ end }}
