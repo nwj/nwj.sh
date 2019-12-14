@@ -1,3 +1,19 @@
 {{ define "main" }}
-        {{ partial "list.html" . }}
+        <div class="max-w-sm mx-auto">
+                <h1 class="text-center border-b">
+                        {{- if eq .Kind "taxonomy" -}}
+                                {{ humanize .Data.Singular }}:
+                        {{- end -}}
+                        {{ .Title }}
+                </h1>
+                <ul>
+                        {{ range .Pages }}
+                                <li>
+                                        <a class="" href="{{ .Permalink }}">
+                                                {{ .Title }}
+                                        </a>
+                                </li>
+                        {{ end }}
+                </ul>
+        </div>
 {{ end }}

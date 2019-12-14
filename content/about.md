@@ -2,6 +2,10 @@
 title: About This Website
 publishdate: 2018-02-24
 disableToc: false
+topics: meta
+tags:
+  - meta
+  - personal
 menu:
   main:
     name: About

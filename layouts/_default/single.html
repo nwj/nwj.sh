@@ -3,7 +3,7 @@
                 <h1 class="text-center">
                         {{ .Title }}
                 </h1>
-                <div class="flex flex-wrap justify-center text-sm text-gray-700 mb-8">
+                <div class="flex flex-wrap justify-center text-sm text-gray-700 mb-0">
                         {{ with .PublishDate }}
                                 <div class="mr-3">
                                         Created: {{ dateFormat "Jan. 2, 2006" . }}
@@ -12,6 +12,25 @@
                         {{ with .Lastmod }}
                                 <div>
                                         Modified: {{ dateFormat "Jan. 2, 2006" . }}
+                                </div>
+                        {{ end }}
+                </div>
+                <div class="flex flex-wrap justify-center text-sm text-gray-700 mb-8">
+                        {{ $taxonomy := "tags" }}
+                        {{ with .Param $taxonomy }}
+                                <div class="mr-3">
+                                        Tags:
+                                        {{ $len := len . }}
+                                        {{ range $index, $tag := . }}
+                                                {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) }}
+                                                        <a class="no-underline text-gray-700" href="{{ .Permalink }}">
+                                                                {{- $tag -}}
+                                                        </a>
+                                                        {{- if not (eq $index (sub $len 1)) -}}
+                                                                ,
+                                                        {{- end -}}
+                                                {{ end }}
+                                        {{ end }}
                                 </div>
                         {{ end }}
                 </div>
