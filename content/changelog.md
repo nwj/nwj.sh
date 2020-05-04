@@ -12,6 +12,12 @@ menu:
 
 This page is a reverse chronological list of recent new writing and modifications to `nwj.cc`.
 
+## 2020
+
+### May
+
+- Introduced a [TIL]({{< ref "til.md" >}}) page.
+
 ## 2019
 
 ### December
