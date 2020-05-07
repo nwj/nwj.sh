@@ -25,3 +25,5 @@ The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an er
 ## Technology
 
 In Vim, invoking the `gf` command while the cursor is over a file path will open that file in a new buffer.
+
+In Rust, there is the `unreachable!()` macro. Fine. But there is also the (vastly superior) [`xkcd_unreachable!()`](https://docs.rs/crate/xkcd_unreachable/).
