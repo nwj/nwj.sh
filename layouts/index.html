@@ -1,20 +1,2 @@
 {{ define "main" }}
-        <div>
-                {{ with .GetPage "orbital" }}
-                        <div class="mb-10">
-                                <div class="text-sm">
-                                        {{ .Date.Format "January 2, 2006" }}
-                                </div>
-
-                                <h1 class="mb-1">
-                                        <a class="no-underline" href="{{ .Permalink }}">
-                                                {{ .Title }}
-                                        </a>
-                                </h1>
-                                <div class="">
-                                        {{ .Description }}
-                                </div>
-                        </div>
-                {{ end }}
-        </div>
 {{ end }}
