@@ -12,6 +12,10 @@ menu:
 ---
 ## 2020
 
+### Biology
+
+[Saccadic masking](https://en.wikipedia.org/wiki/Saccadic_masking) is the phenomenon where human brains block visual processing while the eyes are moving so that we don't perceive motion blur from those eye movements. The brain creates the illusion of continuity during these brief moments of blindness by inferring the missing visual information and [committing those inferences to memory](https://en.wikipedia.org/wiki/Transsaccadic_memory).
+
 ### History
 
 The [Carrington Event](https://en.wikipedia.org/wiki/Solar_storm_of_1859) was a huge solar storm in 1859. During the event, auroras were visible as far south as the Caribbean and telegraph systems all over the world failed. Some telegraph operators reported that they could continue to send and receive messages even though their systems were disconnected from any source of electricity.
