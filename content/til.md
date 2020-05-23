@@ -26,6 +26,8 @@ The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) were a climatic
 
 Mauritania [did not criminalize slave ownership until 2007](https://en.wikipedia.org/wiki/Slavery_in_Mauritania#Modern_slavery) and has done little to actually enforce its anti-slavery laws since then. A [2018 estimate](https://www.globalslaveryindex.org/2018/data/country-data/mauritania/) suggested that 21 of every 1000 people in Mauritania were still enslaved at that time.
 
+A [punkahwallah](https://en.wikipedia.org/wiki/Punkah_wallah) was a servant who worked a manual cooling fan, often operated through a pulley system. Apparently the deaf were favored for this obsolete occupation, as they could not overhear confidential conversations happening around them.
+
 ### Places
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
