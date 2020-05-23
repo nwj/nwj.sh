@@ -24,6 +24,8 @@ Between 1977 and 2014, the government of the Philippines waged an on-again-off-a
 
 The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) were a climatic event, roughly 12,500 years ago, during which temperatures in the Northern Hemisphere temporarily reverted to glacial conditions.
 
+Mauritania [did not criminalize slave ownership until 2007](https://en.wikipedia.org/wiki/Slavery_in_Mauritania#Modern_slavery) and has done little to actually enforce its anti-slavery laws since then. A [2018 estimate](https://www.globalslaveryindex.org/2018/data/country-data/mauritania/) suggested that 21 of every 1000 people in Mauritania were still enslaved at that time.
+
 ### Places
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
