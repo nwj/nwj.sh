@@ -28,6 +28,10 @@ Mauritania [did not criminalize slave ownership until 2007](https://en.wikipedia
 
 A [punkahwallah](https://en.wikipedia.org/wiki/Punkah_wallah) was a servant who worked a manual cooling fan, often operated through a pulley system. Apparently the deaf were favored for this obsolete occupation, as they could not overhear confidential conversations happening around them.
 
+### Mathematics
+
+Little's Law, which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
+
 ### Places
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
