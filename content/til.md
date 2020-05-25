@@ -32,6 +32,8 @@ A [punkahwallah](https://en.wikipedia.org/wiki/Punkah_wallah) was a servant who 
 
 Little's Law, which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
 
+[Chirality](https://en.wikipedia.org/wiki/Chirality) is the property of lacking a mirror image that can be created via rotation or translation. The classic example of a chiral object is the human hand.
+
 ### Places
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
@@ -46,3 +48,5 @@ In Rust, there is the `unreachable!()` macro. Fine. But there is also the (vastl
 ### Miscellaneous
 
 The (campy, terrible) Bond film _Live and Let Die_ includes a scene where Bond uses the backs of three crocodiles as stepping stones to skip across a water channel. Turns out this stunt [actually used live crocodiles](https://www.youtube.com/watch?v=EDeUzB12ln8). Insane.
+
+A [fleuron](https://en.wikipedia.org/wiki/Fleuron_(typography)) is a typographic ornament, typically a stylized version of a leaf or flower. A sort of archaic precursor to dingbats.
