@@ -38,6 +38,7 @@ Little's Law, which states that, for a queue, the average number of items in que
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
 
+The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two remote islands, located roughly in the middle of the Bering Strait. The international date line runs directly between them, so despite being only 3.8 kilometers from each other, they observe a 20 or 21 hour time difference from each other.
 
 ### Technology
 
