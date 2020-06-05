@@ -28,6 +28,8 @@ Mauritania [did not criminalize slave ownership until 2007](https://en.wikipedia
 
 A [punkahwallah](https://en.wikipedia.org/wiki/Punkah_wallah) was a servant who worked a manual cooling fan, often operated through a pulley system. Apparently the deaf were favored for this obsolete occupation, as they could not overhear confidential conversations happening around them.
 
+The [Astor Place Riot](https://en.wikipedia.org/wiki/Astor_Place_Riot) occurred in 1849 in New York City. The riot was started over a dispute about which of two famous Shakespearean actors was better than the other. Another ridiculous New York City riot was the [1922 Straw Hat Riot](https://en.wikipedia.org/wiki/Straw_Hat_Riot). It was sparked when a tradition of "hat bashing" (knocking straw hats off of wearers' heads and stomping on them if the hats were worn after September 15th) spiraled out of control. In yet another strange example of nominative determinism, many of the arrested rioters were sentenced by the Magistrate Peter A. Hatting.
+
 ### Mathematics
 
 Little's Law, which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
