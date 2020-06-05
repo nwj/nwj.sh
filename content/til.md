@@ -40,6 +40,8 @@ The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an er
 
 The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two remote islands, located roughly in the middle of the Bering Strait. The international date line runs directly between them, so despite being only 3.8 kilometers from each other, they observe a 20 or 21 hour time difference from each other.
 
+[Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg).
+
 ### Technology
 
 In Vim, invoking the `gf` command while the cursor is over a file path will open that file in a new buffer.
