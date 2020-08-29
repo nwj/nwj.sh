@@ -30,9 +30,11 @@ A [punkahwallah](https://en.wikipedia.org/wiki/Punkah_wallah) was a servant who 
 
 The [Astor Place Riot](https://en.wikipedia.org/wiki/Astor_Place_Riot) occurred in 1849 in New York City. The riot was started over a dispute about which of two famous Shakespearean actors was better than the other. Another ridiculous New York City riot was the [1922 Straw Hat Riot](https://en.wikipedia.org/wiki/Straw_Hat_Riot). It was sparked when a tradition of "hat bashing" (knocking straw hats off of wearers' heads and stomping on them if the hats were worn after September 15th) spiraled out of control. In yet another strange example of nominative determinism, many of the arrested rioters were sentenced by the Magistrate Peter A. Hatting.
 
+The [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army) was a tactical deception unit of the U.S. Army during WWII that utilized inflatable tanks, sound trucks, fake radio transmissions, and other deceptions in order to create the appearance that troops were deployed in locations where they were not.
+
 ### Mathematics
 
-Little's Law, which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
+[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law), which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
 
 [Chirality](https://en.wikipedia.org/wiki/Chirality) is the property of lacking a mirror image that can be created via rotation or translation. The classic example of a chiral object is the human hand.
 
@@ -43,6 +45,8 @@ The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an er
 The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two remote islands, located roughly in the middle of the Bering Strait. The international date line runs directly between them, so despite being only 3.8 kilometers from each other, they observe a 20 or 21 hour time difference from each other.
 
 [Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg).
+
+[Shibam Hadramawt](https://en.wikipedia.org/wiki/Shibam_Hadramawt) is town in Yemen known for its mudbrick high-rise buildings. These houses, which range from 5 to 11 storeys, are among the tallest mudbrick structures in the world, and are unusually old examples of vertical construction.
 
 ### Technology
 
