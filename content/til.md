@@ -46,7 +46,7 @@ The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two rem
 
 [Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg).
 
-[Shibam Hadramawt](https://en.wikipedia.org/wiki/Shibam_Hadramawt) is town in Yemen known for its mudbrick high-rise buildings. These houses, which range from 5 to 11 storeys, are among the tallest mudbrick structures in the world, and are unusually old examples of vertical construction.
+[Shibam Hadramawt](https://en.wikipedia.org/wiki/Shibam_Hadramawt) is a town in Yemen known for its mudbrick high-rise buildings. These houses, which range from 5 to 11 storeys, are among the tallest mudbrick structures in the world, and are unusually old examples of vertical construction.
 
 ### Technology
 
