@@ -59,3 +59,5 @@ In Rust, there is the `unreachable!()` macro. Fine. But there is also the (vastl
 The (campy, terrible) Bond film _Live and Let Die_ includes a scene where Bond uses the backs of three crocodiles as stepping stones to skip across a water channel. Turns out this stunt [actually used live crocodiles](https://www.youtube.com/watch?v=EDeUzB12ln8). Insane.
 
 A [fleuron](https://en.wikipedia.org/wiki/Fleuron_(typography)) is a typographic ornament, typically a stylized version of a leaf or flower. A sort of archaic precursor to dingbats.
+
+The [catoblepas](https://en.wikipedia.org/wiki/Catoblepas) is a legendary creature, probably inspired by real-life encounters with wildebeest, that was said to have had a killing gaze similar to a gorgon or basilisk. Prior to learning about this, I had wondered why the [Gorgons in Heroes of Might and Magic III](https://heroes.thelazy.net/index.php/Gorgon_and_Mighty_Gorgon) looked like bulls, rather than the more typical medusa.
