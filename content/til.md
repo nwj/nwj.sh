@@ -10,6 +10,12 @@ menu:
   main:
     name: TIL
 ---
+## 2021
+
+### Technology
+
+Passing two arguments to `cd` will cause it to navigate in such a way that it searches `pwd` for the first argument and swaps it for the second. For example, invoking `cd jane jill` from `/home/jane` navigates to `/home/jill`.
+
 ## 2020
 
 ### Biology
