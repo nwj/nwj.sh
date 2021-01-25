@@ -4,9 +4,11 @@
   "author": "Nick Willett-Jeffries <nwillettjeffries@gmail.com>",
   "private": true,
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.1.2",
-    "postcss-cli": "^7.0.0",
+    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "autoprefixer": "^10.2.3",
+    "postcss": "^8.2.4",
+    "postcss-cli": "^8.3.1",
     "prettier": "^2.0.5",
-    "tailwindcss": "^1.4.4"
+    "tailwindcss": "^2.0.2"
   }
 }
