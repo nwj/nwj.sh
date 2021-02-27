@@ -12,9 +12,19 @@ menu:
 ---
 ## 2021
 
+### Culture
+
+Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelonious_Monk). The name comes from his maternal grandfather who had the (awesome) name: Sphere Batts.
+
+### Etymology
+
+In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
+
 ### Technology
 
 Passing two arguments to `cd` will cause it to navigate in such a way that it searches `pwd` for the first argument and swaps it for the second. For example, invoking `cd jane jill` from `/home/jane` navigates to `/home/jill`.
+
+Nuclear submarines primarily produce oxygen via electrolysis. However, as a backup, they require a system for oxygen generation that works even in the event of power failure. That backup system is [oxygen candles](https://en.wikipedia.org/wiki/Chemical_oxygen_generator#Oxygen_candle), which release oxygen when they are burnt.
 
 ## 2020
 
