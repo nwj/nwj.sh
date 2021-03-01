@@ -20,6 +20,10 @@ Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelon
 
 In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
 
+### Places
+
+[Marble Hill](https://en.wikipedia.org/wiki/Marble_Hill,_Manhattan#Separation_from_Manhattan_Island) is a neighborhood in New York City that is legally part of the borough of Manhattan, but is not located on the island of Manhattan. Originally at the northern tip of the island, the neighborhood was separated from Manhattan in 1895 by the construction of the Harlem Ship Canal. In 1914, the part of the Harlem River that ran along the north of Marble Hill was filled in, so the neighborhood is now directly connected to the Bronx.
+
 ### Technology
 
 Passing two arguments to `cd` will cause it to navigate in such a way that it searches `pwd` for the first argument and swaps it for the second. For example, invoking `cd jane jill` from `/home/jane` navigates to `/home/jill`.
