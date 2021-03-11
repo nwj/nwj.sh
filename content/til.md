@@ -20,6 +20,12 @@ Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelon
 
 In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
 
+### History
+
+The research leading to the successful development of oral contraceptives was almost entirely funded by donations from a single person - [Katherine McCormick](https://en.wikipedia.org/wiki/Katharine_McCormick#Philanthropist), heiress to a substantial portion of the McCormick combine harvester fortune.
+
+The [demon core](https://en.wikipedia.org/wiki/Demon_core) was a sphere of plutonium, originally developed by the Manhattan Project as a fissile core for an atomic bomb, but subsequently repurposed as a test device. It was involved in two fatal accidents where physicists working with the core were killed by radiation bursts.
+
 ### Places
 
 [Marble Hill](https://en.wikipedia.org/wiki/Marble_Hill,_Manhattan#Separation_from_Manhattan_Island) is a neighborhood in New York City that is legally part of the borough of Manhattan, but is not located on the island of Manhattan. Originally at the northern tip of the island, the neighborhood was separated from Manhattan in 1895 by the construction of the Harlem Ship Canal. In 1914, the part of the Harlem River that ran along the north of Marble Hill was filled in, so the neighborhood is now directly connected to the Bronx.
@@ -29,6 +35,8 @@ In modern usage, the word "nostalgia" generally means "yearning for the past". B
 Passing two arguments to `cd` will cause it to navigate in such a way that it searches `pwd` for the first argument and swaps it for the second. For example, invoking `cd jane jill` from `/home/jane` navigates to `/home/jill`.
 
 Nuclear submarines primarily produce oxygen via electrolysis. However, as a backup, they require a system for oxygen generation that works even in the event of power failure. That backup system is [oxygen candles](https://en.wikipedia.org/wiki/Chemical_oxygen_generator#Oxygen_candle), which release oxygen when they are burnt.
+
+In the event of a puncture, [self-sealing fuel tanks](https://en.m.wikipedia.org/wiki/Self-sealing_fuel_tank) swell, absorb fuel, and expand so as to minimize fuel loss and resulting damage. They are common in military aircraft since they significantly improve the survival rate of aircraft that take fire. I was surprised to learn that they were in use as early as the 1920s and were used extensively by aircraft throughout World War II.
 
 ## 2020
 
