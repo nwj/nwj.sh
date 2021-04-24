@@ -7,7 +7,7 @@ enableRobotsTXT: true
 params:
   author: "Nick Willett-Jeffries"
   city: "New York, NY"
-  email: "hello@nwj.cc"
+  email: "nwillettjeffries@gmail.com"
   description: "The personal site of Nick Willett-Jeffries."
 
 taxonomies:
