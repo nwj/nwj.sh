@@ -12,19 +12,27 @@ menu:
 ---
 ## 2021
 
+### Biology
+
+Human intestines have glands that produce a substance called "intestinal juice". The modern, uninspired name for these glands is the "intestinal glands". But back in the past, when one could still unironically refer to oneself as a "natural philosopher", these glands were called the ["Crypts of Lieberkühn"](https://en.wikipedia.org/wiki/Intestinal_gland).
+
 ### Culture
 
 Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelonious_Monk). The name comes from his maternal grandfather who had the (awesome) name: Sphere Batts.
 
-### Etymology
-
-In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
+In 1997, David Bowie sold the right to ten years worth of royalties from his work for $55m in the form of [Bowie Bonds](https://en.wikipedia.org/wiki/Celebrity_bond#Bowie_Bonds).
 
 ### History
 
 The research leading to the successful development of oral contraceptives was almost entirely funded by donations from a single person - [Katherine McCormick](https://en.wikipedia.org/wiki/Katharine_McCormick#Philanthropist), heiress to a substantial portion of the McCormick combine harvester fortune.
 
 The [demon core](https://en.wikipedia.org/wiki/Demon_core) was a sphere of plutonium, originally developed by the Manhattan Project as a fissile core for an atomic bomb, but subsequently repurposed as a test device. It was involved in two fatal accidents where physicists working with the core were killed by radiation bursts.
+
+### Language
+
+In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
+
+There are a surprisingly large number of [whistled languages](https://en.wikipedia.org/wiki/Whistled_language#List_of_whistled_languages).
 
 ### Places
 
