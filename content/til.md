@@ -16,6 +16,8 @@ menu:
 
 Human intestines have glands that produce a substance called "intestinal juice". The modern, uninspired name for these glands is the "intestinal glands". But back in the past, when one could still unironically refer to oneself as a "natural philosopher", these glands were called the ["Crypts of Lieberkühn"](https://en.wikipedia.org/wiki/Intestinal_gland).
 
+Hippopotami secrete a red pigment, colloquially known as "blood sweat", officially called [hipposudoric acid](https://en.wikipedia.org/wiki/Hipposudoric_acid), which acts as a natural sunscreen and antimicrobial agent.
+
 ### Culture
 
 Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelonious_Monk). The name comes from his maternal grandfather who had the (awesome) name: Sphere Batts.
@@ -27,6 +29,10 @@ In 1997, David Bowie sold the right to ten years worth of royalties from his wor
 The research leading to the successful development of oral contraceptives was almost entirely funded by donations from a single person - [Katherine McCormick](https://en.wikipedia.org/wiki/Katharine_McCormick#Philanthropist), heiress to a substantial portion of the McCormick combine harvester fortune.
 
 The [demon core](https://en.wikipedia.org/wiki/Demon_core) was a sphere of plutonium, originally developed by the Manhattan Project as a fissile core for an atomic bomb, but subsequently repurposed as a test device. It was involved in two fatal accidents where physicists working with the core were killed by radiation bursts.
+
+During World War II, the U.S. developed an experimental test fighter aircraft known as the ["Flying Pancake"](https://en.wikipedia.org/wiki/Vought_V-173).
+
+The Romans apparently used [war pigs](https://en.wikipedia.org/wiki/War_pig) as a counter-measure against war elephants. More colorful accounts of this practice include the stratagem of dousing the pigs in pitch, lighting them on fire, and driving them towards the elephants.
 
 ### Language
 
