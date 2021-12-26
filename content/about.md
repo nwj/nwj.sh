@@ -40,9 +40,9 @@ I am a software developer and engineering manager living in NYC. Since 2014, I h
 
 ### Projects
 
-- [Orbital](https://orbital.build) is a web app for learning and practicing build orders and timings in real time strategy games. At its core, it is a timer that uses text-to-speech synthesis to read user-defined phrases aloud at specific timings. The effect is similar to having a coach remind you to take certain actions at specific times. I have used it to practice and improve at StarCraft II. Orbital is written in [Elm](https://elm-lang.org/) and the code for it is on [Github](https://github.com/nwj/orbital).
-
 - [Zeke](https://github.com/nwj/zeke) is a CLI that makes managing a folder of markdown notes more ergonomic. I use it for my own personal note taking system. It is written in Rust.
+
+- [Orbital](https://github.com/nwj/orbital) was a web app for learning and practicing build orders and timings in real time strategy games. I wrote it for Braze's 2018 hackday as a way to learn [Elm](https://elm-lang.org/). At its core, it is a timer that uses text-to-speech synthesis to read user-defined phrases aloud at specific timings. The effect is similar to having a coach remind you to take certain actions at specific times.
 
 ### Uses This
 
