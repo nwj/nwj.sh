@@ -24,21 +24,41 @@ Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelon
 
 In 1997, David Bowie sold the right to ten years worth of royalties from his work for $55m in the form of [Bowie Bonds](https://en.wikipedia.org/wiki/Celebrity_bond#Bowie_Bonds).
 
+Lincoln Logs were invented by Frank Lloyd Wright's second son, [John](https://en.wikipedia.org/wiki/John_Lloyd_Wright).
+
+The Nintendo character Kirby is named after [John Kirby Jr.](https://en.wikipedia.org/wiki/John_Kirby_(attorney)), the lawyer who successfully defended Nintendo in a case against Universal Studios where they alleged that Donkey Kong infringed on Universal's supposed King Kong trademark.
+
+The U.S. House of Representatives has a large ceremonial mace, made of ebony and silver, known as [the Mace of the Republic](https://en.wikipedia.org/wiki/Mace_of_the_United_States_House_of_Representatives). "On the rare occasion that a member becomes unruly, the Sergeant at Arms, upon order of the Speaker, lifts the mace from its pedestal and presents it before the offenders, thereby restoring order."
+
 ### History
 
 The research leading to the successful development of oral contraceptives was almost entirely funded by donations from a single person - [Katherine McCormick](https://en.wikipedia.org/wiki/Katharine_McCormick#Philanthropist), heiress to a substantial portion of the McCormick combine harvester fortune.
 
 The [demon core](https://en.wikipedia.org/wiki/Demon_core) was a sphere of plutonium, originally developed by the Manhattan Project as a fissile core for an atomic bomb, but subsequently repurposed as a test device. It was involved in two fatal accidents where physicists working with the core were killed by radiation bursts.
 
+Remember that time the Canadian Prime Minister put a Quebec separtist protester in a choke hold, breaking the man's tooth, and it then became [a beloved national joke](https://en.wikipedia.org/wiki/Shawinigan_Handshake)?
+
 During World War II, the U.S. developed an experimental test fighter aircraft known as the ["Flying Pancake"](https://en.wikipedia.org/wiki/Vought_V-173).
 
 The Romans apparently used [war pigs](https://en.wikipedia.org/wiki/War_pig) as a counter-measure against war elephants. More colorful accounts of this practice include the stratagem of dousing the pigs in pitch, lighting them on fire, and driving them towards the elephants.
+
+[Knocker-ups](https://en.wikipedia.org/wiki/Knocker-up) were members of a, now obsolete, profession whose job was to rouse sleeping people by knocking on their doors or tapping on their windows with a stick. Remarkably, some people were still practicing the profession in England up into the 1970s.
+
+Remember that time the Soviets extinguished an out-of-control gas well inferno by [nuking it](https://www.youtube.com/watch?v=2KJ6p4JVN4g)?
+
+From 1843-1879, the British built a [2000+ kilometer hedge](https://en.wikipedia.org/wiki/Inland_Customs_Line#Great_Hedge) across most of the Indian subcontinent as a custom's barrier designed to prevent smuggling of salt.
 
 ### Language
 
 In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
 
 There are a surprisingly large number of [whistled languages](https://en.wikipedia.org/wiki/Whistled_language#List_of_whistled_languages).
+
+The word "decimation" originally refers to the Roman military practice of executing every tenth man in a group of soldiers found guilty of insubordination or desertion. There are a depressing [number of documented instances](https://en.wikipedia.org/wiki/Decimation_(punishment)#19th_and_20th_century) of the practice from the 20th century, mostly concentrated around World War I.
+
+### Physics
+
+Apparently, it is possible to cause imploding bubbles of a liquid to emit light by bombarding the bubbles with sound - a phenomenon known as [sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence).
 
 ### Places
 
@@ -50,7 +70,13 @@ Passing two arguments to `cd` will cause it to navigate in such a way that it se
 
 Nuclear submarines primarily produce oxygen via electrolysis. However, as a backup, they require a system for oxygen generation that works even in the event of power failure. That backup system is [oxygen candles](https://en.wikipedia.org/wiki/Chemical_oxygen_generator#Oxygen_candle), which release oxygen when they are burnt.
 
-In the event of a puncture, [self-sealing fuel tanks](https://en.m.wikipedia.org/wiki/Self-sealing_fuel_tank) swell, absorb fuel, and expand so as to minimize fuel loss and resulting damage. They are common in military aircraft since they significantly improve the survival rate of aircraft that take fire. I was surprised to learn that they were in use as early as the 1920s and were used extensively by aircraft throughout World War II.
+In the event of a puncture, [self-sealing fuel tanks](https://en.wikipedia.org/wiki/Self-sealing_fuel_tank) swell, absorb fuel, and expand so as to minimize fuel loss and resulting damage. They are common in military aircraft since they significantly improve the survival rate of aircraft that take fire. I was surprised to learn that they were in use as early as the 1920s and were used extensively by aircraft throughout World War II.
+
+The glass armonica is a mechanical musical instrument, invented by Benjamin Franklin, that uses a series of glass bowls rotated around a spindle to produce musical tones. Bizarrely, the instrument was [rumored to cause both musicians and listeners to go mad. ["[The harmonica] excessively stimulates the nerves, plunges the player into a nagging depression and hence into a dark and melancholy mood, that is an apt method for slow self-annihilation."](https://en.wikipedia.org/wiki/Glass_harmonica#Purported_dangers)
+
+The record distance for human-powered flight is held by Daedalus 88, a cycle powered aircraft. In 1988, Kanellos Kanellopoulos, an Olympic cyclist, [piloted the aircraft 115 km](https://www.youtube.com/watch?v=kdwLB0yoGmE) from Crete to Santorini.
+
+The record duration for refueled, crewed flight is held by Robert Timm and John Cook, both civilians, and _Hacienda_, their Cessna 172. [In 1958, they kept this plane in-flight continuously for 64 days.](https://www.aopa.org/news-and-media/all-news/2008/march/pilot/endurance-test-circa-1958) Their refueling strategy involved flying at low speed and altitude along a section of straight road near Blythe, California and using a winch to raise a fuel hose from a modified Ford truck driving below.
 
 ## 2020
 
