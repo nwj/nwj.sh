@@ -10,6 +10,16 @@ menu:
   main:
     name: TIL
 ---
+## 2022
+
+### Chemistry
+
+[Thioacetone](https://en.wikipedia.org/wiki/Thioacetone#Odor) is an unstable organosulfur compound mostly notable for its very potent and unpleasant smell. "In 1889, an attempt to distill the chemical in the German city of Freiburg was followed by cases of vomiting, nausea and unconsciousness in an area with a radius of 0.75 kilometres (0.47 mi) around the laboratory due to the smell." The American Office of Strategic Services [attempted to weaponize a similar compound](https://en.wikipedia.org/wiki/Who_Me) during World War II for use by the French Resistance.
+
+### History
+
+[Julia Child](https://en.wikipedia.org/wiki/Julia_Child#Second_World_War) was recruited by the Office of Strategic Services during World War II, where she helped develop a shark repellent designed to prevent curious sharks from exploding underwater ordnance.
+
 ## 2021
 
 ### Biology
