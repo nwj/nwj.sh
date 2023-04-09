@@ -18,12 +18,14 @@ This page is a reverse chronological list of recent new writing and modification
 
 - Moved domain from `nwj.cc` to `nwj.sh`.
 - Switched hosting and deployment to [Netlify](https://www.netlify.com/).
+- Rebranded the TIL page to [Miscellany]({{< ref "miscellany.md" >}}).
+- Updated the woefully out of date [About]({{< ref "about.md" >}}) page.
 
 ## 2020
 
 ### May
 
-- Introduced a [TIL]({{< ref "til.md" >}}) page.
+- Introduced a [TIL]({{< ref "miscellany.md" >}}) page.
 
 ## 2019
 

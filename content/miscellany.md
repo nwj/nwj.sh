@@ -1,5 +1,5 @@
 ---
-title: Today I Learned
+title: Miscellany
 publishdate: 2020-05-04
 disableToc: false
 topics: meta
@@ -8,27 +8,19 @@ tags:
   - personal
 menu:
   main:
-    name: TIL
+    name: Misc
 ---
 ## 2022
 
-### Chemistry
-
 [Thioacetone](https://en.wikipedia.org/wiki/Thioacetone#Odor) is an unstable organosulfur compound mostly notable for its very potent and unpleasant smell. "In 1889, an attempt to distill the chemical in the German city of Freiburg was followed by cases of vomiting, nausea and unconsciousness in an area with a radius of 0.75 kilometres (0.47 mi) around the laboratory due to the smell." The American Office of Strategic Services [attempted to weaponize a similar compound](https://en.wikipedia.org/wiki/Who_Me) during World War II for use by the French Resistance.
-
-### History
 
 [Julia Child](https://en.wikipedia.org/wiki/Julia_Child#Second_World_War) was recruited by the Office of Strategic Services during World War II, where she helped develop a shark repellent designed to prevent curious sharks from exploding underwater ordnance.
 
 ## 2021
 
-### Biology
-
 Human intestines have glands that produce a substance called "intestinal juice". The modern, uninspired name for these glands is the "intestinal glands". But back in the past, when one could still unironically refer to oneself as a "natural philosopher", these glands were called the ["Crypts of Lieberkühn"](https://en.wikipedia.org/wiki/Intestinal_gland).
 
 Hippopotami secrete a red pigment, colloquially known as "blood sweat", officially called [hipposudoric acid](https://en.wikipedia.org/wiki/Hipposudoric_acid), which acts as a natural sunscreen and antimicrobial agent.
-
-### Culture
 
 Thelonious Monk's middle name is ["Sphere"](https://en.wikipedia.org/wiki/Thelonious_Monk). The name comes from his maternal grandfather who had the (awesome) name: Sphere Batts.
 
@@ -39,8 +31,6 @@ Lincoln Logs were invented by Frank Lloyd Wright's second son, [John](https://en
 The Nintendo character Kirby is named after [John Kirby Jr.](https://en.wikipedia.org/wiki/John_Kirby_(attorney)), the lawyer who successfully defended Nintendo in a case against Universal Studios where they alleged that Donkey Kong infringed on Universal's supposed King Kong trademark.
 
 The U.S. House of Representatives has a large ceremonial mace, made of ebony and silver, known as [the Mace of the Republic](https://en.wikipedia.org/wiki/Mace_of_the_United_States_House_of_Representatives). "On the rare occasion that a member becomes unruly, the Sergeant at Arms, upon order of the Speaker, lifts the mace from its pedestal and presents it before the offenders, thereby restoring order."
-
-### History
 
 The research leading to the successful development of oral contraceptives was almost entirely funded by donations from a single person - [Katherine McCormick](https://en.wikipedia.org/wiki/Katharine_McCormick#Philanthropist), heiress to a substantial portion of the McCormick combine harvester fortune.
 
@@ -58,23 +48,15 @@ Remember that time the Soviets extinguished an out-of-control gas well inferno b
 
 From 1843-1879, the British built a [2000+ kilometer hedge](https://en.wikipedia.org/wiki/Inland_Customs_Line#Great_Hedge) across most of the Indian subcontinent as a custom's barrier designed to prevent smuggling of salt.
 
-### Language
-
 In modern usage, the word "nostalgia" generally means "yearning for the past". But when it was coined, the meaning was narrower and specifically referred to homesickness. Thus the Greek roots νόστος (nóstos, "homecoming") and ἄλγος (álgos, "pain, ache"). At the time, this was meant quite literally as [a medical condition that specifically afflicted the Swiss](https://en.wikipedia.org/wiki/Nostalgia#As_a_medical_condition), with symptoms including fever, stomach pain, and death.
 
 There are a surprisingly large number of [whistled languages](https://en.wikipedia.org/wiki/Whistled_language#List_of_whistled_languages).
 
 The word "decimation" originally refers to the Roman military practice of executing every tenth man in a group of soldiers found guilty of insubordination or desertion. There are a depressing [number of documented instances](https://en.wikipedia.org/wiki/Decimation_(punishment)#19th_and_20th_century) of the practice from the 20th century, mostly concentrated around World War I.
 
-### Physics
-
 Apparently, it is possible to cause imploding bubbles of a liquid to emit light by bombarding the bubbles with sound - a phenomenon known as [sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence).
 
-### Places
-
 [Marble Hill](https://en.wikipedia.org/wiki/Marble_Hill,_Manhattan#Separation_from_Manhattan_Island) is a neighborhood in New York City that is legally part of the borough of Manhattan, but is not located on the island of Manhattan. Originally at the northern tip of the island, the neighborhood was separated from Manhattan in 1895 by the construction of the Harlem Ship Canal. In 1914, the part of the Harlem River that ran along the north of Marble Hill was filled in, so the neighborhood is now directly connected to the Bronx.
-
-### Technology
 
 Passing two arguments to `cd` will cause it to navigate in such a way that it searches `pwd` for the first argument and swaps it for the second. For example, invoking `cd jane jill` from `/home/jane` navigates to `/home/jill`.
 
@@ -90,11 +72,7 @@ The record duration for refueled, crewed flight is held by Robert Timm and John 
 
 ## 2020
 
-### Biology
-
 [Saccadic masking](https://en.wikipedia.org/wiki/Saccadic_masking) is the phenomenon where human brains block visual processing while the eyes are moving so that we don't perceive motion blur from those eye movements. The brain creates the illusion of continuity during these brief moments of blindness by inferring the missing visual information and [committing those inferences to memory](https://en.wikipedia.org/wiki/Transsaccadic_memory).
-
-### History
 
 The [Carrington Event](https://en.wikipedia.org/wiki/Solar_storm_of_1859) was a huge solar storm in 1859. During the event, auroras were visible as far south as the Caribbean and telegraph systems all over the world failed. Some telegraph operators reported that they could continue to send and receive messages even though their systems were disconnected from any source of electricity.
 
@@ -110,13 +88,9 @@ The [Astor Place Riot](https://en.wikipedia.org/wiki/Astor_Place_Riot) occurred 
 
 The [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army) was a tactical deception unit of the U.S. Army during WWII that utilized inflatable tanks, sound trucks, fake radio transmissions, and other deceptions in order to create the appearance that troops were deployed in locations where they were not.
 
-### Mathematics
-
 [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law), which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
 
 [Chirality](https://en.wikipedia.org/wiki/Chirality) is the property of lacking a mirror image that can be created via rotation or translation. The classic example of a chiral object is the human hand.
-
-### Places
 
 The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an eroded igneous rock dome that looks like a giant eye when viewed from above. The effect is like something out of science fiction.
 
@@ -125,14 +99,6 @@ The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two rem
 [Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg).
 
 [Shibam Hadramawt](https://en.wikipedia.org/wiki/Shibam_Hadramawt) is a town in Yemen known for its mudbrick high-rise buildings. These houses, which range from 5 to 11 storeys, are among the tallest mudbrick structures in the world, and are unusually old examples of vertical construction.
-
-### Technology
-
-In Vim, invoking the `gf` command while the cursor is over a file path will open that file in a new buffer.
-
-In Rust, there is the `unreachable!()` macro. Fine. But there is also the (vastly superior) [`xkcd_unreachable!()`](https://docs.rs/crate/xkcd_unreachable/).
-
-### Miscellaneous
 
 The (campy, terrible) Bond film _Live and Let Die_ includes a scene where Bond uses the backs of three crocodiles as stepping stones to skip across a water channel. Turns out this stunt [actually used live crocodiles](https://www.youtube.com/watch?v=EDeUzB12ln8). Insane.
 
