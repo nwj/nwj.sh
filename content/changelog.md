@@ -12,6 +12,13 @@ menu:
 
 This page is a reverse chronological list of recent new writing and modifications to `nwj.sh`.
 
+## 2023
+
+### April
+
+- Moved domain from `nwj.cc` to `nwj.sh`.
+- Switched hosting and deployment to [Netlify](https://www.netlify.com/).
+
 ## 2020
 
 ### May
