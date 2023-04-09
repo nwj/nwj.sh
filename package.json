@@ -1,6 +1,6 @@
 {
-  "name": "nwj.cc",
-  "repository": "git@github.com:nwj/nwj.cc.git",
+  "name": "nwj.sh",
+  "repository": "git@github.com:nwj/nwj.sh.git",
   "author": "Nick Willett-Jeffries <nwillettjeffries@gmail.com>",
   "private": true,
   "devDependencies": {

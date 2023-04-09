@@ -1,8 +1,8 @@
-# NWJ.cc
+# NWJ.sh
 
 ### by nwj
 
-This is the code for my personal site, hosted at [nwj.cc](https://nwj.cc)
+This is the code for my personal site, hosted at [nwj.sh](https://nwj.sh)
 
 ### Development
 

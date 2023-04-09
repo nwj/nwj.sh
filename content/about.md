@@ -19,13 +19,13 @@ Less metaphorically, it is a perpetual draft. I am fascinated by human projects 
 
 ### Colophon
 
-The core principles guiding the design of `nwj.cc` are:
+The core principles guiding the design of `nwj.sh` are:
 
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle).
 - Speed is a feature.
 - Respect your user.
 
-In keeping with those principles, the site is static HTML and CSS. It loads no Javascript at all. I write all content in [CommonMark Markdown](https://commonmark.org/) and compile to HTML using [Hugo](https://gohugo.io/). I use the excellent [TailwindCSS](https://tailwindcss.com/) framework for styling. [Hugo Pipes](https://gohugo.io/hugo-pipes/) and [PostCSS](https://postcss.org/) handle CSS minification and other asset compilation. A full revision history is in git (see [this Github repo](https://github.com/nwj/nwj.cc)).
+In keeping with those principles, the site is static HTML and CSS. It loads no Javascript at all. I write all content in [CommonMark Markdown](https://commonmark.org/) and compile to HTML using [Hugo](https://gohugo.io/). I use the excellent [TailwindCSS](https://tailwindcss.com/) framework for styling. [Hugo Pipes](https://gohugo.io/hugo-pipes/) and [PostCSS](https://postcss.org/) handle CSS minification and other asset compilation. A full revision history is in git (see [this Github repo](https://github.com/nwj/nwj.sh)).
 
 I host the site on the smallest, cheapest [Digital Ocean](https://m.do.co/c/0d70b95f8087) droplet available (currently 1 GB RAM + 1 CPU). [Nginx](https://en.wikipedia.org/wiki/Nginx) serves it. I deploy it using [Ansible](https://github.com/nwj/ansible/blob/master/playbooks/blog.yml). There is no user tracking code, though I monitor basic traffic via server logs and [GoAccess](https://goaccess.io/).
 

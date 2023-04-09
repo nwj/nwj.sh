@@ -10,7 +10,7 @@ menu:
     name: New
 ---
 
-This page is a reverse chronological list of recent new writing and modifications to `nwj.cc`.
+This page is a reverse chronological list of recent new writing and modifications to `nwj.sh`.
 
 ## 2020
 
