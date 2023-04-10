@@ -20,6 +20,7 @@ This page is a reverse chronological list of recent new writing and modification
 - Switched hosting and deployment to [Netlify](https://www.netlify.com/).
 - Rebranded the TIL page to [Miscellany]({{< ref "miscellany.md" >}}).
 - Updated the woefully out of date [About]({{< ref "about.md" >}}) page.
+- Added several recent(ish) reads to [Books I Love]({{< ref "books/_index.md" >}})
 
 ## 2020
 

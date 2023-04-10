@@ -17,7 +17,7 @@ I am a software developer and engineering manager living in NYC. Since 2014, I h
 
 ### Web Presence
 
-- I track the books that I read and want to read on [Goodreads](https://www.goodreads.com/nwj_). See [Books I Like]({{< ref "books/_index.md" >}}) for a list of favorites with brief commentary.
+- I track the books that I read and want to read on [Goodreads](https://www.goodreads.com/nwj_). See [Books I Love]({{< ref "books/_index.md" >}}) for a list of favorites with brief commentary.
 - Most of the code I write outside of work is available on [Github](https://github.com/nwj).
 
 ### Projects
