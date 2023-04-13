@@ -10,6 +10,30 @@ menu:
   main:
     name: Misc
 ---
+## 2023
+
+[Jeno Paulucci](https://en.wikipedia.org/wiki/Jeno_Paulucci) was the founder of several frozen food companies, starting with Chun King in the 1940s. "Paulucci was quoted as stating his motivation that, while he loved Chinese food, he found it too bland and thought it would benefit from a little Italian spicing." He also founded the company that first marketed pizza rolls.
+
+The [Fool's Gold Loaf](https://en.wikipedia.org/wiki/Fool%27s_Gold_Loaf) is an 8,000 calorie sandwich made by hollowing out a loaf of bread and filling it with peanut butter, jelly, and bacon. Elvis was a huge fan and apparently once took his private jet from Memphis to Denver solely to pick up 22 of these sandwiches, which he then ate in the airport hangar with his 2 guests and 2 pilots.
+
+Remember when the Olympics awarded medals for winning the [art competition](https://en.m.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics)?
+
+Lava fountains and cascades sometimes produce thin strands of volcanic glass known as [Pele's hair](https://en.wikipedia.org/wiki/Pele%27s_hair).
+
+[Agloe, New York](https://en.m.wikipedia.org/wiki/Agloe,_New_York) was a fictional town included on some Esso maps as a way of catching plagiarist mapmakers. Ironically, a store later opened at the location and, taking its name from the map, called itself the Agloe General Store, thereby transforming the fictional location into a real location.
+
+Remember when Goodyear designed and built [a fully operational inflatable plane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane) in 12 weeks? 
+
+The [Reisszug](https://en.m.wikipedia.org/wiki/Reisszug) is probably the oldest operational cable railway in the world. The railway is used to raise supplies up to Hohensalzburg Castle. It was originally constructed in either 1495 or 1504. 
+
+The [Tripitaka Koreana](https://en.wikipedia.org/wiki/Tripitaka_Koreana) is a collection of Buddhist scriptures carved onto 81,258 wooden printing blocks. It is the oldest extant version of the Buddhist canon in the Hanja script. "The woodblocks are in pristine condition without warping or deformation despite being created more than 750 years ago."
+
+Agatha Christie was a surfer. She learned to surf prone in South Africa at [Muizenberg Beach](https://en.wikipedia.org/wiki/Muizenberg#Beach_front) and then later learned to surf standing up in Waikiki. "Oh it was heaven! Nothing like rushing through the water at what seems to you a speed of about two hundred miles an hour. It is one of the most perfect physical pleasures I have known."
+
+There is just a ton of [ant mimicry](https://en.wikipedia.org/wiki/Ant_mimicry) out there.
+
+[Roman Dodecahedra](https://en.wikipedia.org/wiki/Roman_dodecahedron) are small metal objects found at various Roman archaeological sites in Western Europe. "No mention of dodecahedrons has been found in contemporary accounts or pictures of the time." "Their purpose remains unknown."
+
 ## 2022
 
 [Thioacetone](https://en.wikipedia.org/wiki/Thioacetone#Odor) is an unstable organosulfur compound mostly notable for its very potent and unpleasant smell. "In 1889, an attempt to distill the chemical in the German city of Freiburg was followed by cases of vomiting, nausea and unconsciousness in an area with a radius of 0.75 kilometres (0.47 mi) around the laboratory due to the smell." The American Office of Strategic Services [attempted to weaponize a similar compound](https://en.wikipedia.org/wiki/Who_Me) during World War II for use by the French Resistance.
