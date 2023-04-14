@@ -68,7 +68,7 @@ The Romans apparently used [war pigs](https://en.wikipedia.org/wiki/War_pig) as 
 
 [Knocker-ups](https://en.wikipedia.org/wiki/Knocker-up) were members of a, now obsolete, profession whose job was to rouse sleeping people by knocking on their doors or tapping on their windows with a stick. Remarkably, some people were still practicing the profession in England up into the 1970s.
 
-Remember that time the Soviets extinguished an out-of-control gas well inferno by [nuking it](https://www.youtube.com/watch?v=2KJ6p4JVN4g)?
+Remember that time the Soviets extinguished an out-of-control gas well inferno by [nuking it](https://www.youtube.com/watch?v=UdgQILcUvRw)?
 
 From 1843-1879, the British built a [2000+ kilometer hedge](https://en.wikipedia.org/wiki/Inland_Customs_Line#Great_Hedge) across most of the Indian subcontinent as a custom's barrier designed to prevent smuggling of salt.
 
