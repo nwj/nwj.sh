@@ -12,6 +12,8 @@ menu:
 ---
 ## 2023
 
+Remember when earth was populated by 20-foot-tall [fungal spires](https://en.wikipedia.org/wiki/Prototaxites)?
+
 [Jeno Paulucci](https://en.wikipedia.org/wiki/Jeno_Paulucci) was the founder of several frozen food companies, starting with Chun King in the 1940s. "Paulucci was quoted as stating his motivation that, while he loved Chinese food, he found it too bland and thought it would benefit from a little Italian spicing." He also founded the company that first marketed pizza rolls.
 
 The [Fool's Gold Loaf](https://en.wikipedia.org/wiki/Fool%27s_Gold_Loaf) is an 8,000 calorie sandwich made by hollowing out a loaf of bread and filling it with peanut butter, jelly, and bacon. Elvis was a huge fan and apparently once took his private jet from Memphis to Denver solely to pick up 22 of these sandwiches, which he then ate in the airport hangar with his 2 guests and 2 pilots.
