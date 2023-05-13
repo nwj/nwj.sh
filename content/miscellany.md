@@ -12,6 +12,8 @@ menu:
 ---
 ## 2023
 
+Automobiles, airplanes, television, and penicillin were all invented prior to [the invention of chocolate chip cookies](https://en.wikipedia.org/wiki/Chocolate_chip_cookie#Invention).
+
 Remember when earth was populated by 20-foot-tall [fungal spires](https://en.wikipedia.org/wiki/Prototaxites)?
 
 [Jeno Paulucci](https://en.wikipedia.org/wiki/Jeno_Paulucci) was the founder of several frozen food companies, starting with Chun King in the 1940s. "Paulucci was quoted as stating his motivation that, while he loved Chinese food, he found it too bland and thought it would benefit from a little Italian spicing." He also founded the company that first marketed pizza rolls.
