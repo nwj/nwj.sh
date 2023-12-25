@@ -13,7 +13,7 @@ menu:
 
 ## Me
 
-I am a software developer and engineering manager living in NYC. Since 2014, I have worked at [Braze](https://www.braze.com), where I manage a group of six engineering teams. In a prior life, I worked as a policy analyst for the New York State Governor's Office. And before that, I studied history and philosophy at Swarthmore College.
+I am a software developer and engineering manager living in NYC. Since 2014, I have worked at [Braze](https://www.braze.com), where I manage a group of engineering teams. In a prior life, I worked as a policy analyst for the New York State Governor's Office. And before that, I studied history and philosophy at Swarthmore College.
 
 ### Web Presence
 
@@ -34,7 +34,7 @@ Starting with laptops, my daily driver is a [2022 M2 MacBook Air](https://www.ap
 
 At work, I use the standard tech-company issue [13" MacBook Pro](https://www.apple.com/macbook-pro-13/). How boring.
 
-My phone is a Pixel 5a. I especially love that it runs stock Android, that it has a fingerprint reader, and that the camera is pretty good. Phone hardware is amazing, but does anyone actually use their phones in a way that pushes that hardware to its limits? I don't, so I'm perfectly happy to stay a generation or two behind the latest flagships.
+My phone is a Pixel 7. On the plus side, I like that it more or less runs stock Android and that the camera is pretty good. On the cons, I wish its fingerprint reader was better. Phone hardware is amazing, but does anyone actually use their phones in a way that pushes that hardware to its limits? I don't, so I'm perfectly happy to stay a generation or two behind the latest flagships.
 
 When I'm not reading on my phone, I read on a [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B075MWNNJG?th=1). And I listen to music and shelter from the sounds of the subway with a pair of [Pixel Buds Pro](https://store.google.com/product/pixel_buds_pro).
 
@@ -44,13 +44,13 @@ I carry some of these things around in a [Tom Bihn Synapse 25](https://www.tombi
 
 #### Software
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) is my browser of choice. For add-ons, I run [uBlock Origin](https://github.com/gorhill/uBlock/), [1Password](https://1password.com/), [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/), and [Raindrop](https://raindrop.io/).
+[Firefox](https://www.mozilla.org/en-US/firefox/new/) is my browser of choice. For add-ons, I run [uBlock Origin](https://github.com/gorhill/uBlock/), [1Password](https://1password.com/),  and [Raindrop](https://raindrop.io/).
 
-For text editing, I use [Helix](https://helix-editor.com/), and typically run that inside [Alacritty](https://github.com/jwilm/alacritty) + [zsh](https://www.zsh.org/) + [tmux](https://github.com/tmux/tmux/wiki).
+For text editing, I use [Neovim](https://neovim.io/), and typically run that inside [Alacritty](https://github.com/jwilm/alacritty) + [zsh](https://www.zsh.org/) + [tmux](https://github.com/tmux/tmux/wiki).
 
 My go to programming languages are [Rust](https://www.rust-lang.org/), [Ruby](https://www.ruby-lang.org/en/), and JavaScript. I've worked a little bit with [Go](https://golang.org/).
 
-I use the same UNIX command line tools as the rest of the world, but a few exceptions are worth mention. [ripgrep](https://github.com/BurntSushi/ripgrep) is a blazing fast replacement for grep, written in Rust. [tldr](https://tldr.sh/) is a simple alternative to man pages. [fzf](https://github.com/junegunn/fzf) is a fuzzy finder which I use for path and shell history searching. [bat](https://github.com/sharkdp/bat) is a `cat` replacement, but with line numbers and syntax highlighting. [exa](https://github.com/ogham/exa) is an `ls` replacement with some nice features, like git integration and better colors.
+I use the same UNIX command line tools as the rest of the world, but a few exceptions are worth mention. [ripgrep](https://github.com/BurntSushi/ripgrep) is a blazing fast replacement for grep, written in Rust. [tldr](https://tldr.sh/) is a simple alternative to man pages. [fzf](https://github.com/junegunn/fzf) is a fuzzy finder which I use for path and shell history searching. [bat](https://github.com/sharkdp/bat) is a `cat` replacement, but with line numbers and syntax highlighting. [eza](https://github.com/eza-community/eza) is an `ls` replacement with some nice features, like git integration and better colors.
 
 I use [Anki](https://apps.ankiweb.net/) for technology-aided spaced repetition, which is the closest thing to a super power I have encountered, other than (maybe) modern contact lenses. My personal note taking system is just a folder, synced with Dropbox and managed with [Zeke](https://github.com/nwj/zeke), which has a bunch of markdown files in it. I track other things in [Todoist](https://todoist.com/) (todo lists...), [Raindrop](https://raindrop.io/) (bookmarks), [YNAB](https://ynab.com/referral/?ref=Ip-urraU8zuXWtxi&utm_source=customer_referral) (finances), and [Cronometer](https://cronometer.com/) (nutrition).
 
