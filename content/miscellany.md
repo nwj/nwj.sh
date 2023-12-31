@@ -49,7 +49,11 @@ During World War II, the British Armed Forced [surreptitiously constructed oil p
 
 The Manila City Council has declared Claire Danes a [_persona non grata_.](<https://en.wikipedia.org/wiki/Persona_non_grata_(Philippines)>)
 
-The [May 15 Incident](https://en.wikipedia.org/wiki/May_15_incident) was an attempted coup in 1932, during which the Prime Minister of Japan was assassinated by 11 ultranationalist naval officers. The original assassination plan had including killing Charlie Chaplin, who was touring the country at the time. Also by the end of the subsequent trial of the instigators, "the court had received 110,000 clemency petitions, either signed or written entirely in blood, from sympathizers around the country pleading for a lenient sentence. Additionally, nine youths in Niigata asked to be tried by the court instead of the accused, and sent the court a jar containing nine of their own pickled severed pinky fingers as a gesture of their sincerity."
+The [May 15 Incident](https://en.wikipedia.org/wiki/May_15_incident) was an attempted coup in 1932, during which the Prime Minister of Japan was assassinated by 11 ultranationalist naval officers. The original assassination plan had including killing Charlie Chaplin, who was visiting the country at the time. Also by the end of the subsequent trial of the instigators, "the court had received 110,000 clemency petitions, either signed or written entirely in blood, from sympathizers around the country pleading for a lenient sentence. Additionally, nine youths in Niigata asked to be tried by the court instead of the accused, and sent the court a jar containing nine of their own pickled severed pinky fingers as a gesture of their sincerity."
+
+There were [somewhat conflicting accounts](https://en.wikipedia.org/wiki/Pope_Paul_II#Final_years) of Pope Paul II's death.
+
+[Utraquism](https://en.wikipedia.org/wiki/Utraquism) is a Christian belief that during communion, both bread and wine (and not just bread alone) should be administered to laypeople ("communion under both kinds"). The Hussites fought several wars from 1419-34, partly over this dogma. Catholic practice didn't change to permit communion under both kinds until 1965 with Vatican II.
 
 ## 2022
 
