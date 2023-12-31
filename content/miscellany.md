@@ -10,6 +10,7 @@ menu:
   main:
     name: Misc
 ---
+
 ## 2023
 
 Automobiles, airplanes, television, and penicillin were all invented prior to [the invention of chocolate chip cookies](https://en.wikipedia.org/wiki/Chocolate_chip_cookie#Invention).
@@ -20,15 +21,15 @@ Remember when earth was populated by 20-foot-tall [fungal spires](https://en.wik
 
 The [Fool's Gold Loaf](https://en.wikipedia.org/wiki/Fool%27s_Gold_Loaf) is an 8,000 calorie sandwich made by hollowing out a loaf of bread and filling it with peanut butter, jelly, and bacon. Elvis was a huge fan and apparently once took his private jet from Memphis to Denver solely to pick up 22 of these sandwiches, which he then ate in the airport hangar with his 2 guests and 2 pilots.
 
-Remember when the Olympics awarded medals for winning the [art competition](https://en.m.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics)?
+Remember when the Olympics awarded medals for winning the [art competition](https://en.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics)?
 
 Lava fountains and cascades sometimes produce thin strands of volcanic glass known as [Pele's hair](https://en.wikipedia.org/wiki/Pele%27s_hair).
 
-[Agloe, New York](https://en.m.wikipedia.org/wiki/Agloe,_New_York) was a fictional town included on some Esso maps as a way of catching plagiarist mapmakers. Ironically, a store later opened at the location and, taking its name from the map, called itself the Agloe General Store, thereby transforming the fictional location into a real location.
+[Agloe, New York](https://en.wikipedia.org/wiki/Agloe,_New_York) was a fictional town included on some Esso maps as a way of catching plagiarist mapmakers. Ironically, a store later opened at the location and, taking its name from the map, called itself the Agloe General Store, thereby transforming the fictional location into a real location.
 
-Remember when Goodyear designed and built [a fully operational inflatable plane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane) in 12 weeks? 
+Remember when Goodyear designed and built [a fully operational inflatable plane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane) in 12 weeks?
 
-The [Reisszug](https://en.m.wikipedia.org/wiki/Reisszug) is probably the oldest operational cable railway in the world. The railway is used to raise supplies up to Hohensalzburg Castle. It was originally constructed in either 1495 or 1504. 
+The [Reisszug](https://en.wikipedia.org/wiki/Reisszug) is probably the oldest operational cable railway in the world. The railway is used to raise supplies up to Hohensalzburg Castle. It was originally constructed in either 1495 or 1504.
 
 The [Tripitaka Koreana](https://en.wikipedia.org/wiki/Tripitaka_Koreana) is a collection of Buddhist scriptures carved onto 81,258 wooden printing blocks. It is the oldest extant version of the Buddhist canon in the Hanja script. "The woodblocks are in pristine condition without warping or deformation despite being created more than 750 years ago."
 
@@ -37,6 +38,18 @@ Agatha Christie was a surfer. She learned to surf prone in South Africa at [Muiz
 There is just a ton of [ant mimicry](https://en.wikipedia.org/wiki/Ant_mimicry) out there.
 
 [Roman Dodecahedra](https://en.wikipedia.org/wiki/Roman_dodecahedron) are small metal objects found at various Roman archaeological sites in Western Europe. "No mention of dodecahedrons has been found in contemporary accounts or pictures of the time." "Their purpose remains unknown."
+
+It's surprising that the superiority of overshot water wheels (vs. undershot) was not [definitively established](https://archive.org/details/philtrans04492943) until 1759, especially since the experiments necessary to do so would have been possible going at least as far back as ancient Rome.
+
+Remember that time President George H. W. Bush was shot down while flying a bombing raid over a small island south of Japan and then [narrowly escaped capture, execution, and ritual cannibalization](https://en.wikipedia.org/wiki/Chichijima_incident)?
+
+The [frog galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope) was a highly sensitive instrument, made from a frog's leg, used to detect voltage.
+
+During World War II, the British Armed Forced [surreptitiously constructed oil pipelines](https://en.wikipedia.org/wiki/Operation_Pluto) under the English Channel and used those pipelines to deliver 8 percent of the petroleum products used by the Allied Expeditionary Force in north-west Europe.
+
+The Manila City Council has declared Claire Danes a [_persona non grata_.](<https://en.wikipedia.org/wiki/Persona_non_grata_(Philippines)>)
+
+The [May 15 Incident](https://en.wikipedia.org/wiki/May_15_incident) was an attempted coup in 1932, during which the Prime Minister of Japan was assassinated by 11 ultranationalist naval officers. The original assassination plan had including killing Charlie Chaplin, who was touring the country at the time. Also by the end of the subsequent trial of the instigators, "the court had received 110,000 clemency petitions, either signed or written entirely in blood, from sympathizers around the country pleading for a lenient sentence. Additionally, nine youths in Niigata asked to be tried by the court instead of the accused, and sent the court a jar containing nine of their own pickled severed pinky fingers as a gesture of their sincerity."
 
 ## 2022
 
@@ -56,7 +69,7 @@ In 1997, David Bowie sold the right to ten years worth of royalties from his wor
 
 Lincoln Logs were invented by Frank Lloyd Wright's second son, [John](https://en.wikipedia.org/wiki/John_Lloyd_Wright).
 
-The Nintendo character Kirby is named after [John Kirby Jr.](https://en.wikipedia.org/wiki/John_Kirby_(attorney)), the lawyer who successfully defended Nintendo in a case against Universal Studios where they alleged that Donkey Kong infringed on Universal's supposed King Kong trademark.
+The Nintendo character Kirby is named after [John Kirby Jr.](<https://en.wikipedia.org/wiki/John_Kirby_(attorney)>), the lawyer who successfully defended Nintendo in a case against Universal Studios where they alleged that Donkey Kong infringed on Universal's supposed King Kong trademark.
 
 The U.S. House of Representatives has a large ceremonial mace, made of ebony and silver, known as [the Mace of the Republic](https://en.wikipedia.org/wiki/Mace_of_the_United_States_House_of_Representatives). "On the rare occasion that a member becomes unruly, the Sergeant at Arms, upon order of the Speaker, lifts the mace from its pedestal and presents it before the offenders, thereby restoring order."
 
@@ -80,7 +93,7 @@ In modern usage, the word "nostalgia" generally means "yearning for the past". B
 
 There are a surprisingly large number of [whistled languages](https://en.wikipedia.org/wiki/Whistled_language#List_of_whistled_languages).
 
-The word "decimation" originally refers to the Roman military practice of executing every tenth man in a group of soldiers found guilty of insubordination or desertion. There are a depressing [number of documented instances](https://en.wikipedia.org/wiki/Decimation_(punishment)#19th_and_20th_century) of the practice from the 20th century, mostly concentrated around World War I.
+The word "decimation" originally refers to the Roman military practice of executing every tenth man in a group of soldiers found guilty of insubordination or desertion. There are a depressing [number of documented instances](<https://en.wikipedia.org/wiki/Decimation_(punishment)#19th_and_20th_century>) of the practice from the 20th century, mostly concentrated around World War I.
 
 Apparently, it is possible to cause imploding bubbles of a liquid to emit light by bombarding the bubbles with sound - a phenomenon known as [sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence).
 
@@ -116,7 +129,7 @@ The [Astor Place Riot](https://en.wikipedia.org/wiki/Astor_Place_Riot) occurred 
 
 The [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army) was a tactical deception unit of the U.S. Army during WWII that utilized inflatable tanks, sound trucks, fake radio transmissions, and other deceptions in order to create the appearance that troops were deployed in locations where they were not.
 
-[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law), which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ * W. Useful for estimating one feature of a queue based on the other two features.
+[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law), which states that, for a queue, the average number of items in queue (L) is equal to the average rate at which new items arrive (λ) times the average time an item spends in queue (W). So, L = λ \* W. Useful for estimating one feature of a queue based on the other two features.
 
 [Chirality](https://en.wikipedia.org/wiki/Chirality) is the property of lacking a mirror image that can be created via rotation or translation. The classic example of a chiral object is the human hand.
 
@@ -124,13 +137,13 @@ The [Eye of the Sahara](https://en.wikipedia.org/wiki/Richat_Structure) is an er
 
 The [Diomede Islands](https://en.wikipedia.org/wiki/Diomede_Islands) are two remote islands, located roughly in the middle of the Bering Strait. The international date line runs directly between them, so despite being only 3.8 kilometers from each other, they observe a 20 or 21 hour time difference from each other.
 
-[Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg).
+[Magnitogorsk](https://en.wikipedia.org/wiki/Magnitogorsk), literally "the City of the Magnetic Mountain", is an industrial city that served as the Soviet Union's primary steel production facility during World War Two. Also, the city's flag is [badass](<https://en.wikipedia.org/wiki/Magnitogorsk#/media/File:Flag_of_Magnitogorsk_(Chelyabinsk_oblast).svg>).
 
 [Shibam Hadramawt](https://en.wikipedia.org/wiki/Shibam_Hadramawt) is a town in Yemen known for its mudbrick high-rise buildings. These houses, which range from 5 to 11 storeys, are among the tallest mudbrick structures in the world, and are unusually old examples of vertical construction.
 
 The (campy, terrible) Bond film _Live and Let Die_ includes a scene where Bond uses the backs of three crocodiles as stepping stones to skip across a water channel. Turns out this stunt [actually used live crocodiles](https://www.youtube.com/watch?v=EDeUzB12ln8). Insane.
 
-A [fleuron](https://en.wikipedia.org/wiki/Fleuron_(typography)) is a typographic ornament, typically a stylized version of a leaf or flower. A sort of archaic precursor to dingbats.
+A [fleuron](<https://en.wikipedia.org/wiki/Fleuron_(typography)>) is a typographic ornament, typically a stylized version of a leaf or flower. A sort of archaic precursor to dingbats.
 
 The [catoblepas](https://en.wikipedia.org/wiki/Catoblepas) is a legendary creature, probably inspired by real-life encounters with wildebeest, that was said to have had a killing gaze similar to a gorgon or basilisk. Prior to learning about this, I had wondered why the [Gorgons in Heroes of Might and Magic III](https://heroes.thelazy.net/index.php/Gorgon_and_Mighty_Gorgon) looked like bulls, rather than the more typical medusa.
 
