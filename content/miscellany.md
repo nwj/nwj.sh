@@ -10,6 +10,13 @@ menu:
   main:
     name: Misc
 ---
+## 2024
+
+There sure are a lot of [methods of divination](https://en.wikipedia.org/wiki/Methods_of_divination).
+
+[Śmigus-dyngus](https://en.wikipedia.org/wiki/%C5%9Amigus-dyngus) is a Polish celebration in which men dress up in elaborate and colorful handmade costumes and throw water on any woman they encounter. "The origins of the word _dyngus_ are obscure as it may come from the German _Dingeier_ ("owed eggs", the Easter eggs that are to be given to children) or _Dingnis, Dingnus_ (ransom paid during the war to protect against pillaging)."
+
+There are several towns and settlements in Northern England named "Pity Me". [The one in County Durham](https://en.wikipedia.org/wiki/Pity_Me) is apparently the most prominent.
 
 ## 2023
 
