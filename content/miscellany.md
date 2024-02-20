@@ -18,6 +18,8 @@ There sure are a lot of [methods of divination](https://en.wikipedia.org/wiki/Me
 
 There are several towns and settlements in Northern England named "Pity Me". [The one in County Durham](https://en.wikipedia.org/wiki/Pity_Me) is apparently the most prominent.
 
+Remember when Cleveland invented it's own [alternative to Valentine's Day](https://en.wikipedia.org/wiki/Sweetest_Day), but the rest of the country largely didn't adopt it.
+
 ## 2023
 
 Automobiles, airplanes, television, and penicillin were all invented prior to [the invention of chocolate chip cookies](https://en.wikipedia.org/wiki/Chocolate_chip_cookie#Invention).
