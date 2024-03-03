@@ -20,6 +20,8 @@ There are several towns and settlements in Northern England named "Pity Me". [Th
 
 Remember when Cleveland invented its own [alternative to Valentine's Day](https://en.wikipedia.org/wiki/Sweetest_Day), but the rest of the country largely didn't adopt it.
 
+The [director of the movie Tár](https://en.wikipedia.org/wiki/Todd_Field) also invented Big League Chew.
+
 ## 2023
 
 Automobiles, airplanes, television, and penicillin were all invented prior to [the invention of chocolate chip cookies](https://en.wikipedia.org/wiki/Chocolate_chip_cookie#Invention).
