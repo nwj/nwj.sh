@@ -13,7 +13,7 @@ menu:
 
 ## Me
 
-I am a software developer and engineering manager living in NYC. Since 2014, I have worked at [Braze](https://www.braze.com), where I manage a group of engineering teams. In a prior life, I worked as a policy analyst for the New York State Governor's Office. And before that, I studied history and philosophy at Swarthmore College.
+I am a software developer and engineering manager living in NYC. From 2014-2024, I worked at [Braze](https://www.braze.com), where I managed a group of engineering teams. In a prior life, I worked as a policy analyst for the New York State Governor's Office. And before that, I studied history and philosophy at Swarthmore College.
 
 ### Web Presence
 
