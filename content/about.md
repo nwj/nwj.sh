@@ -18,7 +18,7 @@ I am a software developer and engineering manager living in NYC. From 2014-2024,
 ### Web Presence
 
 - I track the books that I read and want to read on [Goodreads](https://www.goodreads.com/nwj_). See [Books I Love]({{< ref "books/_index.md" >}}) for a list of favorites with brief commentary.
-- Most of the code I write outside of work is available on [Github](https://github.com/nwj).
+- Most of the code I write is available on [Github](https://github.com/nwj).
 
 ### Projects
 
@@ -31,8 +31,6 @@ I am a software developer and engineering manager living in NYC. From 2014-2024,
 #### Hardware
 
 Starting with laptops, my daily driver is a [2022 M2 MacBook Air](https://www.apple.com/macbook-air-m2/) in Midnight Blue with 24GB of RAM. This is the best computer I have ever owned. It is sleek and thin and light. I love that I can go whole days without charging it and yet it is way faster than it has any right to be.
-
-At work, I use the standard tech-company issue [13" MacBook Pro](https://www.apple.com/macbook-pro-13/). How boring.
 
 My phone is a Pixel 7. On the plus side, I like that it more or less runs stock Android and that the camera is pretty good. On the cons, I wish its fingerprint reader was better. Phone hardware is amazing, but does anyone actually use their phones in a way that pushes that hardware to its limits? I don't, so I'm perfectly happy to stay a generation or two behind the latest flagships.
 
