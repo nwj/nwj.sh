@@ -11,6 +11,9 @@ menu:
     name: Misc
 ---
 ## 2024
+[Dashrath Manjhi](https://en.wikipedia.org/wiki/Dashrath_Manjhi) was an Indian laborer who spent 22 years carving a 110-meter road through a nearby mountain, by hand with a hammer and chisel, so that his village would have better access to critical services.
+
+[Gary Brooks Faulkner](https://en.wikipedia.org/wiki/Gary_Brooks_Faulkner) was a middle-aged landlord who made seven trips to Pakistan in a one-man attempt to hunt for Osama bin Laden. "His sixth attempt involved flying to Pakistan through hang gliding, though he had never used a hang glider before."
 
 Stop being such a [sarcastic fringehead](https://en.wikipedia.org/wiki/Sarcastic_fringehead).
 
