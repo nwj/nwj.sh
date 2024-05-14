@@ -11,6 +11,11 @@ menu:
     name: Misc
 ---
 ## 2024
+
+Why not [add some numerology and astrology to](https://www.chessprogramming.org/Influence_Quantity_of_Pieces#Analogy_in_Astronomy) your chess programming?
+
+[One of the moons of Saturn](https://en.wikipedia.org/wiki/Mimas) looks suspiciously like a Death Star.
+
 [Bison](https://en.wikipedia.org/wiki/European_bison) were apparently common across much of Europe until the Early Middle Ages.
 
 [Dashrath Manjhi](https://en.wikipedia.org/wiki/Dashrath_Manjhi) was an Indian laborer who spent 22 years carving a 110-meter road through a nearby mountain, by hand with a hammer and chisel, so that his village would have better access to critical services.
