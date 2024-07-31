@@ -11,6 +11,7 @@ menu:
     name: Misc
 ---
 ## 2024
+[SEAL Team Six](https://en.wikipedia.org/wiki/SEAL_Team_Six#History) was actually the third SEAL team formed by the US Navy. They went with "Six" in an attempt to confuse Soviet intelligence.
 
 Why not [add some numerology and astrology to](https://www.chessprogramming.org/Influence_Quantity_of_Pieces#Analogy_in_Astronomy) your chess programming?
 
