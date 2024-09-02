@@ -11,6 +11,9 @@ menu:
     name: Misc
 ---
 ## 2024
+
+Remember [that time](https://en.wikipedia.org/wiki/Operation_Mincemeat) British intelligence obtained a corpse, dressed it as a fictitious military officer, planted fake documents on it suggesting that the Allies intended to invade Greece and Sardinia, used a submarine to dump the corpse off the coast of Spain, where it was found by the Spanish, who shared the documents with Nazi military intelligence, thereby deceiving the Nazis and diverting them away from the actual planned invasion of Sicily?
+
 [SEAL Team Six](https://en.wikipedia.org/wiki/SEAL_Team_Six#History) was actually the third SEAL team formed by the US Navy. They went with "Six" in an attempt to confuse Soviet intelligence.
 
 Why not [add some numerology and astrology to](https://www.chessprogramming.org/Influence_Quantity_of_Pieces#Analogy_in_Astronomy) your chess programming?
