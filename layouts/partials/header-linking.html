@@ -1,1 +1,0 @@
-{{ . | replaceRE "(<h[2-4] id=\"([^\"]+)\">)(.+)(</h[2-4]+>)" `${1}<a class="no-underline text-black hover:text-black" href="#${2}">${3}</a>${4}` | safeHTML }}

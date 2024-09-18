@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>
+            {% block title %}
+            {% endblock title %}
+        - NWJ</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+              rel="stylesheet">
+        <link rel="stylesheet"
+              href="{{ get_url(path='css/main.css', cachebust=true) }}" />
+    </head>
+    <body>
+        <header class="page-header">
+            <input type="checkbox" id="nav-menu-toggle" />
+            <div class="nav-top">
+                <a class="logo" href="">NWJ</a>
+                <label for="nav-menu-toggle" class="nav-menu-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="16"
+                         height="16"
+                         fill="currentColor"
+                         class="bi bi-list"
+                         viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5" />
+                    </svg>
+                </label>
+            </div>
+            <nav class="nav-menu">
+                <a href=""><span>Projects</span></a>
+                <a href=""><span>Library</span></a>
+                <a href=""><span>Miscellany</span></a>
+                <a href=""><span>Now</span></a>
+                <a href=""><span>About</span></a>
+            </nav>
+        </header>
+        <main>
+            {% block content %}
+            {% endblock content %}
+        </main>
+        <footer class="page-footer">
+            <div>
+                <div>
+                    <h3>Want to keep up to date?</h3>
+                    <span>Subscribe</span>
+                </div>
+                <nav>
+                    <a href="">GitHub</a>
+                    <a href="">LinkedIn</a>
+                </nav>
+                <span>© {{ now() | date(format="%Y") }} Nick Willett-Jeffries</span>
+            </div>
+            <div>
+                <nav>
+                    <a href="">Projects</a>
+                    <a href="">Library</a>
+                    <a href="">Miscellany</a>
+                    <a href="">About</a>
+                    <a href="">Now</a>
+                    <a href="">Colophon</a>
+                </nav>
+            </div>
+        </footer>
+    </body>
+</html>
