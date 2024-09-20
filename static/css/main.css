@@ -39,6 +39,15 @@
   }
 }
 
+/* This font is subset for only the logo characters: "NWJ" */
+@font-face {
+  font-display: swap;
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Merriweather-Regular-Subset.woff2") format("woff2");
+}
+
 :root {
   --font-size-2xs: clamp(0.7813rem, 0.7747rem + 0.0326vw, 0.8rem);
   --font-size-xs: clamp(0.9375rem, 0.9158rem + 0.1087vw, 1rem);
@@ -51,6 +60,10 @@
 
   --line-height-tight: 1.1;
   --line-height-normal: 1.5;
+
+  --font-logo: Merriweather, serif;
+  --font-sans-serif: system-ui, sans-serif;
+  --font-serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
 
   --space-3xs: clamp(0.3125rem, 0.3125rem + 0vw, 0.3125rem);
   --space-2xs: clamp(0.5625rem, 0.5408rem + 0.1087vw, 0.625rem);
@@ -155,6 +168,7 @@
 
 body {
   color: var(--color-text-main);
+  font-family: var(--font-sans-serif);
   background-color: var(--color-background-main);
   display: grid;
   grid-template-areas:
@@ -188,7 +202,7 @@ body {
   }
 
   .logo {
-    font-family: Merriweather;
+    font-family: var(--font-logo);
     font-size: var(--font-size-xl);
   }
 
@@ -265,7 +279,7 @@ main {
   padding: var(--space-m);
 
   h1 {
-    font-family: Merriweather;
+    font-family: var(--font-serif);
     font-size: var(--font-size-3xl);
     line-height: var(--line-height-tight);
   }
@@ -320,7 +334,7 @@ main {
       gap: var(--space-3xs);
 
       h3 {
-        font-family: Merriweather;
+        font-family: var(--font-serif);
         font-size: var(--font-size-m);
       }
 
