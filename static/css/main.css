@@ -164,6 +164,7 @@
   --color-text-main: var(--color-stone-700);
   --color-text-understated: var(--color-stone-500);
   --color-link-main: var(--color-sky-700);
+  --color-link-accent-understated: var(--color-stone-400);
   --color-link-accent: var(--color-emerald-500);
 }
 
@@ -181,7 +182,12 @@ body {
 
   a {
     color: var(--color-link-main);
-    text-decoration: none;
+    text-decoration-color: var(--color-link-accent-understated);
+
+    &:hover {
+      text-decoration-color: var(--color-link-accent);
+      text-decoration-thickness: 2px;
+    }
   }
 }
 
@@ -204,6 +210,7 @@ body {
   .logo {
     font-family: var(--font-logo);
     font-size: var(--font-size-xl);
+    text-decoration: none;
   }
 
   .nav-menu-icon {
@@ -225,21 +232,13 @@ body {
       margin: auto;
       font-size: var(--font-size-s);
       color: var(--color-text-main);
-      background: linear-gradient(
-          var(--color-link-accent),
-          var(--color-link-accent)
-        )
-        0 100% no-repeat;
-      background-size: 0% 2px;
-      text-shadow:
-        -2px -2px var(--color-background-main),
-        -2px 2px var(--color-background-main),
-        2px -2px var(--color-background-main),
-        2px 2px var(--color-background-main);
+      text-decoration: none;
 
       &:hover {
         color: var(--color-link-main);
-        background-size: 100% 2px;
+        text-decoration: underline;
+        text-decoration-color: var(--color-link-accent);
+        text-decoration-thickness: 2px;
       }
     }
   }
@@ -341,29 +340,6 @@ main {
         footer {
           font-style: normal;
         }
-      }
-    }
-
-    a {
-      background: linear-gradient(
-          var(--color-text-understated),
-          var(--color-text-understated)
-        )
-        0 100% no-repeat;
-      background-size: 100% 1px;
-      text-shadow:
-        -2px -2px var(--color-background-main),
-        -2px 2px var(--color-background-main),
-        2px -2px var(--color-background-main),
-        2px 2px var(--color-background-main);
-
-      &:hover {
-        background: linear-gradient(
-            var(--color-link-accent),
-            var(--color-link-accent)
-          )
-          0 100% no-repeat;
-        background-size: 100% 2px;
       }
     }
 
@@ -478,6 +454,7 @@ main {
 
   a {
     color: var(--color-text-main);
+    text-decoration: none;
 
     &:hover {
       color: var(--color-link-main);
@@ -554,21 +531,12 @@ main {
 
     a {
       color: var(--color-text-understated);
-      background: linear-gradient(
-          var(--color-link-accent),
-          var(--color-link-accent)
-        )
-        0 100% no-repeat;
-      background-size: 0% 2px;
-      text-shadow:
-        -2px -2px var(--color-background-main),
-        -2px 2px var(--color-background-main),
-        2px -2px var(--color-background-main),
-        2px 2px var(--color-background-main);
 
       &:hover {
         color: var(--color-link-main);
-        background-size: 100% 2px;
+        text-decoration: underline;
+        text-decoration-color: var(--color-link-accent);
+        text-decoration-thickness: 2px;
       }
     }
   }
