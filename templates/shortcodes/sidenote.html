@@ -1,0 +1,8 @@
+<label for="sidenote-{{ nth }}" class="note-label"
+  ><sup class="note-superscript">{{ nth }}</sup></label
+>
+<input id="sidenote-{{ nth }}" class="note-toggle" type="checkbox" />
+<span class="sidenote">
+  <sup class="note-superscript">{{ nth }}</sup>
+  {{ body | markdown(inline=true) | safe }}
+</span>

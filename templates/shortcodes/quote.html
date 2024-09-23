@@ -1,0 +1,7 @@
+<blockquote>
+  {{ body | markdown | safe -}}
+  <!-- prettier-ignore-->
+  {%- if source | length > 0 -%}
+  <footer>{{ source | markdown(inline=true) | safe }}</footer>
+  {%- endif -%}
+</blockquote>
