@@ -1,15 +1,19 @@
 {% extends "base.html" %}
 <!-- prettier-ignore-->
 {% block title %}Index{% endblock title %}
-{% block main %}
-<hgroup class="hero">
-  <h1>
-    <b>Nick</b> writes code, reads books, bakes bread, lifts weights, plays
-    games...
-  </h1>
-  <p class="subtitle">
-    Software engineer, engineering manager, mediocre student of history
-  </p>
-  <p class="subtitle">Currently on <a href="/now">a year-long sabbatical</a></p>
-</hgroup>
-{% endblock main %}
+{% block content %}
+<main>
+  <hgroup class="hero">
+    <h1>
+      <b>Nick</b> writes code, reads books, bakes bread, lifts weights, plays
+      games...
+    </h1>
+    <p class="subtitle">
+      Software engineer, engineering manager, mediocre student of history
+    </p>
+    <p class="subtitle">
+      Currently on <a href="/now">a year-long sabbatical</a>
+    </p>
+  </hgroup>
+</main>
+{% endblock content %}
