@@ -1,0 +1,14 @@
+{%- extends "base.html" -%}
+<!-- prettier-ignore-->
+{%- block title %}Miscellany{% endblock title -%}
+{% block content %}
+<article>
+  <hgroup>
+    <h1>Miscellany</h1>
+    <p class="subtitle">Random facts of interest or amusement</p>
+  </hgroup>
+  {%- for page in section.pages -%}
+  <div>{{ page.content | safe }}</div>
+  {%- endfor -%}
+</article>
+{% endblock content %}

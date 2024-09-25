@@ -1,3 +1,3 @@
 +++
-template = "now.html"
+template = "now/index.html"
 +++
