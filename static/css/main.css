@@ -300,6 +300,37 @@ article {
 
 main {
   max-width: var(--max-content-width);
+
+  .books-grid {
+    display: grid;
+    gap: var(--space-l);
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+
+    .book {
+      color: var(--color-text-main);
+      text-decoration: none;
+
+      .cover-image {
+        img {
+          width: 100%;
+          border-radius: 7px;
+          margin-bottom: var(--space-s);
+        }
+      }
+
+      .title {
+        font-family: var(--font-serif);
+        font-size: var(--font-size-m);
+        line-height: var(--line-height-tight);
+        margin-bottom: var(--space-2xs);
+      }
+
+      .author {
+        font-size: var(--font-size-s);
+        line-height: var(--line-height-tight);
+      }
+    }
+  }
 }
 
 article {
