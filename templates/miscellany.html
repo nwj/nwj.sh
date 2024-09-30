@@ -7,8 +7,10 @@
     <h1>Miscellany</h1>
     <p class="subtitle">Random facts of interest or amusement</p>
   </hgroup>
-  {%- for page in section.pages -%}
-  <div>{{ page.content | safe }}</div>
-  {%- endfor -%}
+  <!-- prettier-ignore-->
+  {%- set miscellany = load_data(path="data/miscellany.json") | sort(attribute="date") | reverse -%}
+  {% for misc in miscellany %}
+  <div id="{{ misc.id }}">{{ misc.content | markdown | safe }}</div>
+  {% endfor %}
 </article>
 {% endblock content %}
