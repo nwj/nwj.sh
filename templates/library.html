@@ -11,16 +11,29 @@
   <section class="books-grid">
     <!-- prettier-ignore-->
     {%- set books = load_data(path="data/books.json") | sort(attribute="date_read") | reverse -%}
-    {%- for book in books -%}
+    {% for book in books %}
     <a class="book" href="/library#{{book.id}}" id="{{ book.id }}">
       <picture class="cover-image">
         <source srcset="{{ book.cover_avif }}" />
-        <img src="{{ book.cover_png }}" alt="Cover of '{{ book.title }}'" />
+        {%- if loop.index < 8 -%}
+        <img
+          src="{{ book.cover_png }}"
+          alt="Cover of '{{ book.title }}'"
+          height="345"
+        />
+        {%- else -%}
+        <img
+          src="{{ book.cover_png }}"
+          alt="Cover of '{{ book.title }}'"
+          height="345"
+          loading="lazy"
+        />
+        {%- endif -%}
       </picture>
       <p class="title">{{ book.title }}</p>
       <p class="author">{{ book.author }}</p>
     </a>
-    {%- endfor -%}
+    {% endfor %}
   </section>
 </main>
 {% endblock content %}

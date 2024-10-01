@@ -266,6 +266,7 @@ body {
 main,
 article {
   grid-area: page-content;
+  width: 100%;
   margin: 0 auto;
   padding: var(--space-m);
 
@@ -303,7 +304,8 @@ main {
 
   .books-grid {
     display: grid;
-    gap: var(--space-l);
+    column-gap: var(--space-l);
+    row-gap: var(--space-2xl);
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 
     .book {
@@ -312,7 +314,7 @@ main {
 
       .cover-image {
         img {
-          width: 100%;
+          max-height: 345px;
           border-radius: 7px;
           margin-bottom: var(--space-s);
         }
