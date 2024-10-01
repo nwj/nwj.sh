@@ -17,13 +17,13 @@
         <source srcset="{{ book.cover_avif }}" />
         {%- if loop.index < 8 -%}
         <img
-          src="{{ book.cover_png }}"
+          src="{{ book.cover_jpg }}"
           alt="Cover of '{{ book.title }}'"
           height="345"
         />
         {%- else -%}
         <img
-          src="{{ book.cover_png }}"
+          src="{{ book.cover_jpg }}"
           alt="Cover of '{{ book.title }}'"
           height="345"
           loading="lazy"
