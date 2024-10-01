@@ -6,14 +6,14 @@
 <main>
   <hgroup>
     <h1>{{ page.title }}</h1>
-    <p class="subtitle">Books that I have read and that I love</p>
+    <p class="subtitle">Books I have read that I love; more recent reads at the top</p>
   </hgroup>
   <section class="books-grid">
     <!-- prettier-ignore-->
     {%- set books = load_data(path="data/books.json") | sort(attribute="date_read") | reverse -%}
     {% for book in books %}
-    <a class="book" href="/library#{{book.id}}" id="{{ book.id }}">
-      <picture class="cover-image">
+    <div class="book" id="{{ book.id }}">
+      <picture class="cover">
         <source srcset="{{ book.cover_avif }}" />
         {%- if loop.index < 8 -%}
         <img
@@ -32,7 +32,7 @@
       </picture>
       <p class="title">{{ book.title }}</p>
       <p class="author">{{ book.author }}</p>
-    </a>
+    </div>
     {% endfor %}
   </section>
 </main>

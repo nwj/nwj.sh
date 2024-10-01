@@ -312,7 +312,7 @@ main {
       color: var(--color-text-main);
       text-decoration: none;
 
-      .cover-image {
+      .cover {
         img {
           max-height: 345px;
           border-radius: 7px;

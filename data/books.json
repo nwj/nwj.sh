@@ -1,5 +1,29 @@
 [
   {
+    "id": "the-name-of-the-rose",
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "date_read": "2024-09-16",
+    "cover_jpg": "images/books/the-name-of-the-rose.jpg",
+    "cover_avif": "images/books/the-name-of-the-rose.avif"
+  },
+  {
+    "id": "the-machinery-of-life",
+    "title": "The Machinery of Life",
+    "author": "David S. Goodsell",
+    "date_read": "2024-09-06",
+    "cover_jpg": "images/books/the-machinery-of-life.jpg",
+    "cover_avif": "images/books/the-machinery-of-life.avif"
+  },
+  {
+    "id": "the-making-of-the-atomic-bomb",
+    "title": "The Making of the Atomic Bomb",
+    "author": "Richard Rhodes",
+    "date_read": "2024-08-25",
+    "cover_jpg": "images/books/the-making-of-the-atomic-bomb.jpg",
+    "cover_avif": "images/books/the-making-of-the-atomic-bomb.avif"
+  },
+  {
     "id": "the-summer-book",
     "title": "The Summer Book",
     "author": "Tove Jansson",
