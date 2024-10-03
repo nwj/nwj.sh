@@ -151,7 +151,7 @@
   --color-rose-900: #881337;
   --color-rose-950: #4c0519;
 
-  --color-background-main: var(--color-stone-50);
+  --color-background-main: var(--color-stone-100);
   --color-text-main: var(--color-stone-700);
   --color-text-understated: var(--color-stone-500);
   --color-link-main: var(--color-sky-700);
@@ -302,35 +302,163 @@ article {
 main {
   max-width: var(--max-content-width);
 
-  .books-grid {
+  &.index {
     display: grid;
-    column-gap: var(--space-l);
     row-gap: var(--space-2xl);
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    column-gap: var(--space-l);
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "hero"
+      "library"
+      "misc";
 
-    .book {
-      color: var(--color-text-main);
-      text-decoration: none;
+    .hero {
+      grid-area: hero;
+      margin-bottom: var(--space-l);
+    }
 
-      .cover {
-        img {
-          max-height: 345px;
-          border-radius: 7px;
-          margin-bottom: var(--space-s);
+    .miscellany,
+    .library {
+      a {
+        text-decoration: none;
+        color: var(--color-text-main);
+      }
+
+      hgroup {
+        margin-bottom: var(--space-m);
+
+        a:hover {
+          color: var(--color-link-main);
+          text-decoration: underline;
+          text-decoration-color: var(--color-link-accent);
+          text-decoration-thickness: 2px;
+        }
+
+        h2 {
+          display: flex;
+          align-items: center;
+          font-size: var(--font-size-m);
+        }
+
+        .subtitle {
+          font-size: var(--font-size-m);
+          margin: var(--space-2xs) 0;
+        }
+      }
+    }
+
+    .library {
+      grid-area: library;
+
+      .books-grid {
+        display: grid;
+        column-gap: var(--space-s);
+        row-gap: var(--space-l);
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+
+        .book {
+          text-decoration: none;
+
+          .cover {
+            img {
+              max-height: 300px;
+              border-radius: 7px;
+              margin-bottom: var(--space-s);
+            }
+          }
+
+          .title {
+            font-family: var(--font-serif);
+            font-size: var(--font-size-m);
+            line-height: var(--line-height-tight);
+            margin-bottom: var(--space-2xs);
+          }
+
+          .author {
+            font-size: var(--font-size-xs);
+            line-height: var(--line-height-tight);
+          }
+        }
+      }
+    }
+
+    .miscellany {
+      grid-area: misc;
+
+      a:hover {
+        color: var(--color-link-main);
+
+        .fact {
+          border-bottom: 1px solid var(--color-link-accent);
         }
       }
 
-      .title {
-        font-family: var(--font-serif);
-        font-size: var(--font-size-m);
-        line-height: var(--line-height-tight);
-        margin-bottom: var(--space-2xs);
+      a:last-child {
+        .fact {
+          border: none;
+        }
       }
 
-      .author {
-        font-size: var(--font-size-s);
-        line-height: var(--line-height-tight);
+      ul {
+        padding: unset;
+        list-style: none;
       }
+
+      .fact {
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+        font-family: var(--font-serif);
+        font-size: var(--font-size-s);
+        padding: var(--space-xs) 0;
+        border-bottom: 1px solid var(--color-stone-300);
+      }
+    }
+  }
+
+  &.library {
+    .books-grid {
+      display: grid;
+      column-gap: var(--space-l);
+      row-gap: var(--space-2xl);
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+
+      .book {
+        color: var(--color-text-main);
+        text-decoration: none;
+
+        .cover {
+          img {
+            max-height: 345px;
+            border-radius: 7px;
+            margin-bottom: var(--space-s);
+          }
+        }
+
+        .title {
+          font-family: var(--font-serif);
+          font-size: var(--font-size-m);
+          line-height: var(--line-height-tight);
+          margin-bottom: var(--space-2xs);
+        }
+
+        .author {
+          font-size: var(--font-size-s);
+          line-height: var(--line-height-tight);
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 735px) {
+  main {
+    &.index {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "hero hero hero"
+        "library library misc";
     }
   }
 }
