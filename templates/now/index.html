@@ -1,18 +1,16 @@
 {%- extends "base.html" -%}
-<!-- prettier-ignore-->
 {%- block title %}Now{% endblock title -%}
 {% block content %}
-<article>
-  <hgroup>
-    <h1>Now</h1>
-    <p class="subtitle">
-      A log of what I've been up to lately, periodically updated
-    </p>
-  </hgroup>
-  {%- for page in section.pages -%}
-  <h2>{{page.title}}</h2>
-  {{ page.content | safe }}
-  <!-- prettier-ignore-->
-  {%- endfor -%}
-</article>
+  <article>
+    <hgroup>
+      <h1>Now</h1>
+      <p class="subtitle">
+        A log of what I've been up to lately, periodically updated
+      </p>
+    </hgroup>
+    {%- for page in section.pages -%}
+      <h2>{{ page.title }}</h2>
+      {{ page.content | safe }}
+    {%- endfor -%}
+  </article>
 {% endblock content %}

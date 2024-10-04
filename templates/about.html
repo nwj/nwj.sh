@@ -1,15 +1,14 @@
 {%- extends "base.html" -%}
-<!-- prettier-ignore-->
 {%- block title %}About{% endblock title -%}
 {% block content %}
-<article>
-  <hgroup>
-    <p class="pretitle">About</p>
-    <h1>Nick Willett-Jeffries</h1>
-    <p class="subtitle">
-      Software engineer, engineering manager, student of history
-    </p>
-  </hgroup>
-  {{ page.content | safe }}
-</article>
+  <article>
+    <hgroup>
+      <p class="pretitle">About</p>
+      <h1>Nick Willett-Jeffries</h1>
+      <p class="subtitle">
+        Software engineer, engineering manager, student of history
+      </p>
+    </hgroup>
+    {{ page.content | safe }}
+  </article>
 {% endblock content %}
