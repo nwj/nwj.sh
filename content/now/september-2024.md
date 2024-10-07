@@ -1,5 +1,6 @@
 +++
 title = "September 2024"
+date = "2024-09-15"
 +++
 
 I left [Braze](https://www.braze.com) in March, after ten years working there. So for the past six months, I have been on a sabbatical.

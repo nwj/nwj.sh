@@ -7,6 +7,12 @@ compile_sass = false
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# When set to "true", a feed is automatically generated.
+generate_feeds = true
+
+# The default author for pages
+author = "Nick Willett-Jeffries"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
