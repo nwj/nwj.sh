@@ -4,24 +4,24 @@
     "title": "The Name of the Rose",
     "author": "Umberto Eco",
     "date_read": "2024-09-16",
-    "cover_jpg": "images/books/the-name-of-the-rose.jpg",
-    "cover_avif": "images/books/the-name-of-the-rose.avif"
+    "cover_jpg": "/images/books/the-name-of-the-rose.jpg",
+    "cover_avif": "/images/books/the-name-of-the-rose.avif"
   },
   {
     "id": "the-machinery-of-life",
     "title": "The Machinery of Life",
     "author": "David S. Goodsell",
     "date_read": "2024-09-06",
-    "cover_jpg": "images/books/the-machinery-of-life.jpg",
-    "cover_avif": "images/books/the-machinery-of-life.avif"
+    "cover_jpg": "/images/books/the-machinery-of-life.jpg",
+    "cover_avif": "/images/books/the-machinery-of-life.avif"
   },
   {
     "id": "the-making-of-the-atomic-bomb",
     "title": "The Making of the Atomic Bomb",
     "author": "Richard Rhodes",
     "date_read": "2024-08-25",
-    "cover_jpg": "images/books/the-making-of-the-atomic-bomb.jpg",
-    "cover_avif": "images/books/the-making-of-the-atomic-bomb.avif"
+    "cover_jpg": "/images/books/the-making-of-the-atomic-bomb.jpg",
+    "cover_avif": "/images/books/the-making-of-the-atomic-bomb.avif"
   },
   {
     "id": "the-summer-book",
@@ -29,8 +29,8 @@
     "author": "Tove Jansson",
     "comment": "Charming vignettes of life on an island in the Gulf of Finland during summer. Nostalgic yet (somehow) not overly sentimental.",
     "date_read": "2022-05-15",
-    "cover_jpg": "images/books/the-summer-book.jpg",
-    "cover_avif": "images/books/the-summer-book.avif"
+    "cover_jpg": "/images/books/the-summer-book.jpg",
+    "cover_avif": "/images/books/the-summer-book.avif"
   },
   {
     "id": "a-primates-memoir",
@@ -38,8 +38,8 @@
     "author": "Robert Sapolsky",
     "comment": "People mistake this for a popular science book, but it's actually one of the best travel books anyone has written.",
     "date_read": "2021-12-31",
-    "cover_jpg": "images/books/a-primates-memoir.jpg",
-    "cover_avif": "images/books/a-primates-memoir.avif"
+    "cover_jpg": "/images/books/a-primates-memoir.jpg",
+    "cover_avif": "/images/books/a-primates-memoir.avif"
   },
   {
     "id": "working-in-public",
@@ -47,8 +47,8 @@
     "author": "Nadia Eghbal",
     "comment": "Really good at highlighting how the economic and social incentives around maintaining open source software greatly differ from what most people think.",
     "date_read": "2021-10-13",
-    "cover_jpg": "images/books/working-in-public.jpg",
-    "cover_avif": "images/books/working-in-public.avif"
+    "cover_jpg": "/images/books/working-in-public.jpg",
+    "cover_avif": "/images/books/working-in-public.avif"
   },
   {
     "id": "the-americanization-of-benjamin-franklin",
@@ -56,8 +56,8 @@
     "author": "Gordon S. Wood",
     "comment": "Psychologically astute biography of Franklin that cuts through all the mythology. I was shocked how interesting and different his story is compared to what I thought I knew.",
     "date_read": "2021-05-19",
-    "cover_jpg": "images/books/the-americanization-of-benjamin-franklin.jpg",
-    "cover_avif": "images/books/the-americanization-of-benjamin-franklin.avif"
+    "cover_jpg": "/images/books/the-americanization-of-benjamin-franklin.jpg",
+    "cover_avif": "/images/books/the-americanization-of-benjamin-franklin.avif"
   },
   {
     "id": "twilight-of-the-gods",
@@ -65,8 +65,8 @@
     "author": "Ian W. Toll",
     "comment": "Helped me appreciate how miraculous it is that the War in the Pacific ended without even greater bloodshed.",
     "date_read": "2021-04-21",
-    "cover_jpg": "images/books/twilight-of-the-gods.jpg",
-    "cover_avif": "images/books/twilight-of-the-gods.avif"
+    "cover_jpg": "/images/books/twilight-of-the-gods.jpg",
+    "cover_avif": "/images/books/twilight-of-the-gods.avif"
   },
   {
     "id": "piranesi",
@@ -74,8 +74,8 @@
     "author": "Susanna Clarke",
     "comment": "A strange and wonderful puzzle. It reminds me more of games like Myst or The Witness than of any other book.",
     "date_read": "2021-01-03",
-    "cover_jpg": "images/books/piranesi.jpg",
-    "cover_avif": "images/books/piranesi.avif"
+    "cover_jpg": "/images/books/piranesi.jpg",
+    "cover_avif": "/images/books/piranesi.avif"
   },
   {
     "id": "jonathan-strange-mr-norrell",
@@ -83,8 +83,8 @@
     "author": "Susanna Clarke",
     "comment": "The best work of Romanticism in over a generation.",
     "date_read": "2021-01-02",
-    "cover_jpg": "images/books/jonathan-strange-mr-norrell.jpg",
-    "cover_avif": "images/books/jonathan-strange-mr-norrell.avif"
+    "cover_jpg": "/images/books/jonathan-strange-mr-norrell.jpg",
+    "cover_avif": "/images/books/jonathan-strange-mr-norrell.avif"
   },
   {
     "id": "artificial-intelligence",
@@ -92,8 +92,8 @@
     "author": "Melanie Mitchell",
     "comment": "A useful reality check on the possibility of general AI in the near future.",
     "date_read": "2020-05-24",
-    "cover_jpg": "images/books/artificial-intelligence.jpg",
-    "cover_avif": "images/books/artificial-intelligence.avif"
+    "cover_jpg": "/images/books/artificial-intelligence.jpg",
+    "cover_avif": "/images/books/artificial-intelligence.avif"
   },
   {
     "id": "strangers-drowning",
@@ -101,8 +101,8 @@
     "author": "Larissa MacFarquhar",
     "comment": "Several critics failed to recognize that this book's refusal to draw moral conclusions about its subjects is a great strength, rather than a failing.",
     "date_read": "2019-09-09",
-    "cover_jpg": "images/books/strangers-drowning.jpg",
-    "cover_avif": "images/books/strangers-drowning.avif"
+    "cover_jpg": "/images/books/strangers-drowning.jpg",
+    "cover_avif": "/images/books/strangers-drowning.avif"
   },
   {
     "id": "blindsight",
@@ -110,8 +110,8 @@
     "author": "Peter Watts",
     "comment": "The achievement here is aliens that really feel alien.",
     "date_read": "2019-03-25",
-    "cover_jpg": "images/books/blindsight.jpg",
-    "cover_avif": "images/books/blindsight.avif"
+    "cover_jpg": "/images/books/blindsight.jpg",
+    "cover_avif": "/images/books/blindsight.avif"
   },
   {
     "id": "secondhand-time",
@@ -119,8 +119,8 @@
     "author": "Svetlana Alexievich",
     "comment": "Interviews with people who can remember what it was like before modernity.",
     "date_read": "2019-03-17",
-    "cover_jpg": "images/books/secondhand-time.jpg",
-    "cover_avif": "images/books/secondhand-time.avif"
+    "cover_jpg": "/images/books/secondhand-time.jpg",
+    "cover_avif": "/images/books/secondhand-time.avif"
   },
   {
     "id": "bloodlands",
@@ -128,8 +128,8 @@
     "author": "Timothy Snyder",
     "comment": "Very grim, as you might expect. It can be useful, though, to remember history's great capacity for inhumanity.",
     "date_read": "2019-01-03",
-    "cover_jpg": "images/books/bloodlands.jpg",
-    "cover_avif": "images/books/bloodlands.avif"
+    "cover_jpg": "/images/books/bloodlands.jpg",
+    "cover_avif": "/images/books/bloodlands.avif"
   },
   {
     "id": "inhuman-land",
@@ -137,8 +137,8 @@
     "author": "Józef Czapski",
     "comment": "Stunning first-person account of a Polish officer's experience of World War II. I envy Czapski's sensitivity to art and poetry.",
     "date_read": "2018-12-30",
-    "cover_jpg": "images/books/inhuman-land.jpg",
-    "cover_avif": "images/books/inhuman-land.avif"
+    "cover_jpg": "/images/books/inhuman-land.jpg",
+    "cover_avif": "/images/books/inhuman-land.avif"
   },
   {
     "id": "the-master-and-margarita",
@@ -146,8 +146,8 @@
     "author": "Mikhail Bulgakov",
     "comment": "Anti-Soviet satire. But the real attraction here is the novel's characterization of Satan.",
     "date_read": "2018-12-10",
-    "cover_jpg": "images/books/the-master-and-margarita.jpg",
-    "cover_avif": "images/books/the-master-and-margarita.avif"
+    "cover_jpg": "/images/books/the-master-and-margarita.jpg",
+    "cover_avif": "/images/books/the-master-and-margarita.avif"
   },
   {
     "id": "the-right-stuff",
@@ -155,8 +155,8 @@
     "author": "Tom Wolfe",
     "comment": "Didion once said that writers are always selling somebody out. Presumably, she had Tom Wolfe in mind. This is a hatchet job. But god damn if it's not artfully done.",
     "date_read": "2018-06-07",
-    "cover_jpg": "images/books/the-right-stuff.jpg",
-    "cover_avif": "images/books/the-right-stuff.avif"
+    "cover_jpg": "/images/books/the-right-stuff.jpg",
+    "cover_avif": "/images/books/the-right-stuff.avif"
   },
   {
     "id": "the-conquering-tide",
@@ -164,8 +164,8 @@
     "author": "Ian W. Toll",
     "comment": "A perfect survey of the war in the Pacific theater. By the way, that part of the war remains grossly underrated as a historical subject.",
     "date_read": "2018-06-05",
-    "cover_jpg": "images/books/the-conquering-tide.jpg",
-    "cover_avif": "images/books/the-conquering-tide.avif"
+    "cover_jpg": "/images/books/the-conquering-tide.jpg",
+    "cover_avif": "/images/books/the-conquering-tide.avif"
   },
   {
     "id": "the-conflict-shoreline",
@@ -173,8 +173,8 @@
     "author": "Eyal Weizman and Fazal Sheikh",
     "comment": "A forensic history of the Negev desert, but channeling Braudel and James C. Scott. I don't share the authors' political views and it still drew me in.",
     "date_read": "2018-03-04",
-    "cover_jpg": "images/books/the-conflict-shoreline.jpg",
-    "cover_avif": "images/books/the-conflict-shoreline.avif"
+    "cover_jpg": "/images/books/the-conflict-shoreline.jpg",
+    "cover_avif": "/images/books/the-conflict-shoreline.avif"
   },
   {
     "id": "the-invisibility-cloak",
@@ -182,8 +182,8 @@
     "author": "Ge Fei",
     "comment": "Perhaps the perfect novel on modern China. Understated and charming.",
     "date_read": "2017-11-26",
-    "cover_jpg": "images/books/the-invisibility-cloak.jpg",
-    "cover_avif": "images/books/the-invisibility-cloak.avif"
+    "cover_jpg": "/images/books/the-invisibility-cloak.jpg",
+    "cover_avif": "/images/books/the-invisibility-cloak.avif"
   },
   {
     "id": "being-mortal",
@@ -191,8 +191,8 @@
     "author": "Atul Gawande",
     "comment": "Changed how I think about aging. So much so that I felt almost physically ill as I read it.",
     "date_read": "2017-11-05",
-    "cover_jpg": "images/books/being-mortal.jpg",
-    "cover_avif": "images/books/being-mortal.avif"
+    "cover_jpg": "/images/books/being-mortal.jpg",
+    "cover_avif": "/images/books/being-mortal.avif"
   },
   {
     "id": "the-forest-unseen",
@@ -200,8 +200,8 @@
     "author": "David George Haskell",
     "comment": "Nominally about forest ecology. Really about the limits of human observation and mindfulness. Those limits are further out than most of us realize.",
     "date_read": "2017-10-29",
-    "cover_jpg": "images/books/the-forest-unseen.jpg",
-    "cover_avif": "images/books/the-forest-unseen.avif"
+    "cover_jpg": "/images/books/the-forest-unseen.jpg",
+    "cover_avif": "/images/books/the-forest-unseen.avif"
   },
   {
     "id": "superforecasting",
@@ -209,8 +209,8 @@
     "author": "Philip Tetlock",
     "comment": "I would start here if I ever needed to make serious predictions.",
     "date_read": "2017-09-30",
-    "cover_jpg": "images/books/superforecasting.jpg",
-    "cover_avif": "images/books/superforecasting.avif"
+    "cover_jpg": "/images/books/superforecasting.jpg",
+    "cover_avif": "/images/books/superforecasting.avif"
   },
   {
     "id": "altered-carbon",
@@ -218,8 +218,8 @@
     "author": "Richard K. Morgan",
     "comment": "Possibly the best cyberpunk novel since Neuromancer.",
     "date_read": "2017-01-04",
-    "cover_jpg": "images/books/altered-carbon.jpg",
-    "cover_avif": "images/books/altered-carbon.avif"
+    "cover_jpg": "/images/books/altered-carbon.jpg",
+    "cover_avif": "/images/books/altered-carbon.avif"
   },
   {
     "id": "the-structure-of-scientific-revolutions",
@@ -227,8 +227,8 @@
     "author": "Thomas Kuhn",
     "comment": "So much of the existing thought about our future would benefit from taking Kuhn more seriously.",
     "date_read": "2017-01-02",
-    "cover_jpg": "images/books/the-structure-of-scientific-revolutions.jpg",
-    "cover_avif": "images/books/the-structure-of-scientific-revolutions.avif"
+    "cover_jpg": "/images/books/the-structure-of-scientific-revolutions.jpg",
+    "cover_avif": "/images/books/the-structure-of-scientific-revolutions.avif"
   },
   {
     "id": "the-last-samurai",
@@ -236,8 +236,8 @@
     "author": "Helen DeWitt",
     "comment": "Ultimately, this one is about how to cope with the world when it fails to live up to our expectations.",
     "date_read": "2016-12-10",
-    "cover_jpg": "images/books/the-last-samurai.jpg",
-    "cover_avif": "images/books/the-last-samurai.avif"
+    "cover_jpg": "/images/books/the-last-samurai.jpg",
+    "cover_avif": "/images/books/the-last-samurai.avif"
   },
   {
     "id": "suttree",
@@ -245,8 +245,8 @@
     "author": "Cormac McCarthy",
     "comment": "McCarthy channeling a gothic Huck Finn. As close to self-recommending as you can get.",
     "date_read": "2016-09-18",
-    "cover_jpg": "images/books/suttree.jpg",
-    "cover_avif": "images/books/suttree.avif"
+    "cover_jpg": "/images/books/suttree.jpg",
+    "cover_avif": "/images/books/suttree.avif"
   },
   {
     "id": "the-myth-of-the-rational-voter",
@@ -254,8 +254,8 @@
     "author": "Bryan Caplan",
     "comment": "Well argued and persuasive, but perhaps too radical for its own good. In my experience, few people who read this change their behavior, but should that count against the book or against the people?",
     "date_read": "2016-02-20",
-    "cover_jpg": "images/books/the-myth-of-the-rational-voter.jpg",
-    "cover_avif": "images/books/the-myth-of-the-rational-voter.avif"
+    "cover_jpg": "/images/books/the-myth-of-the-rational-voter.jpg",
+    "cover_avif": "/images/books/the-myth-of-the-rational-voter.avif"
   },
   {
     "id": "the-magic-mountain",
@@ -263,8 +263,8 @@
     "author": "Thomas Mann",
     "comment": "Mann covers so much ground and has so many ideas that this is like reading twenty novels interwoven together.",
     "date_read": "2015-11-05",
-    "cover_jpg": "images/books/the-magic-mountain.jpg",
-    "cover_avif": "images/books/the-magic-mountain.avif"
+    "cover_jpg": "/images/books/the-magic-mountain.jpg",
+    "cover_avif": "/images/books/the-magic-mountain.avif"
   },
   {
     "id": "leaves-of-grass",
@@ -272,8 +272,8 @@
     "author": "Walt Whitman",
     "comment": "A useful remedy for excessive pessimism and cynicism.",
     "date_read": "2015-07-12",
-    "cover_jpg": "images/books/leaves-of-grass.jpg",
-    "cover_avif": "images/books/leaves-of-grass.avif"
+    "cover_jpg": "/images/books/leaves-of-grass.jpg",
+    "cover_avif": "/images/books/leaves-of-grass.avif"
   },
   {
     "id": "awakenings",
@@ -281,8 +281,8 @@
     "author": "Oliver Sacks",
     "comment": "Makes you feel like the world is bigger and more alien than you imagined. We could all use more of that on a day-to-day basis.",
     "date_read": "2015-05-08",
-    "cover_jpg": "images/books/awakenings.jpg",
-    "cover_avif": "images/books/awakenings.avif"
+    "cover_jpg": "/images/books/awakenings.jpg",
+    "cover_avif": "/images/books/awakenings.avif"
   },
   {
     "id": "pnin",
@@ -290,7 +290,7 @@
     "author": "Vladimir Nabokov",
     "comment": "Nabokov's most underrated novel. Ridiculously charming, while still capable of being quite sad.",
     "date_read": "2015-02-27",
-    "cover_jpg": "images/books/pnin.jpg",
-    "cover_avif": "images/books/pnin.avif"
+    "cover_jpg": "/images/books/pnin.jpg",
+    "cover_avif": "/images/books/pnin.avif"
   }
 ]
