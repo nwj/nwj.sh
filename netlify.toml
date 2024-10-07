@@ -1,14 +1,6 @@
 [build]
-  publish = "public"
-  command = "hugo --gc --minify"
+publish = "public"
+command = "zola build"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
-  HUGO_ENV = "production"
-
-
-[[redirects]]
-  from = "https://nwj.cc/*"
-  to = "https://nwj.sh/:splat"
-  status = 301
-  force = true
+ZOLA_VERSION = "0.19.2"

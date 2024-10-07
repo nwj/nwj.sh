@@ -1,0 +1,6 @@
+<blockquote>
+  {{ body | markdown | safe -}}
+  {%- if source | length > 0 -%}
+    <footer>{{ source | markdown(inline=true) | safe }}</footer>
+  {%- endif -%}
+</blockquote>

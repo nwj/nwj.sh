@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+{% block title %}Index{% endblock title %}
+{% block content %}
+  <main class="index">
+    <hgroup class="hero">
+      <h1>
+        <b>Nick</b> writes code, reads books, bakes bread, lifts weights, plays
+        games...
+      </h1>
+      <p class="subtitle">
+        Software engineer, engineering manager, student of history
+      </p>
+      <p class="subtitle">
+        Currently on <a href="/now">a year-long sabbatical</a>
+      </p>
+    </hgroup>
+    <section class="library">
+      <hgroup>
+        <a href="/library">
+          <h2>
+            Library
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="1em"
+              height="1em"
+              viewBox="0 0 16 16"
+            >
+              <path
+                fill="currentColor"
+                fill-rule="evenodd"
+                d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8"
+              />
+            </svg>
+          </h2>
+        </a>
+        <p class="subtitle">Books I have read that I love</p>
+      </hgroup>
+      <div class="books-grid">
+        {%- set books = load_data(path="data/books.json") | sort(attribute="date_read") | reverse | slice(end=6) -%}
+        {% for book in books %}
+          <a href="/library#{{ book.id }}">
+            <div class="book">
+              <picture class="cover">
+                <source srcset="{{ book.cover_avif }}" />
+                {%- if loop.index < 8 -%}
+                  <img
+                    src="{{ book.cover_jpg }}"
+                    alt="Cover of '{{ book.title }}'"
+                    height="345"
+                  />
+                {%- else -%}
+                  <img
+                    src="{{ book.cover_jpg }}"
+                    alt="Cover of '{{ book.title }}'"
+                    height="345"
+                    loading="lazy"
+                  />
+                {%- endif -%}
+              </picture>
+              <p class="title">{{ book.title }}</p>
+              <p class="author">{{ book.author }}</p>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    </section>
+    <section class="miscellany">
+      <hgroup>
+        <a href="/miscellany">
+          <h2>
+            Miscellany
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="1em"
+              height="1em"
+              viewBox="0 0 16 16"
+            >
+              <path
+                fill="currentColor"
+                fill-rule="evenodd"
+                d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8"
+              />
+            </svg>
+          </h2>
+        </a>
+        <p class="subtitle">Random facts of interest or amusement</p>
+      </hgroup>
+      <ul>
+        {%- set miscellany = load_data(path="data/miscellany.json") | sort(attribute="date") | reverse | slice(end=12) -%}
+        {% for fact in miscellany %}
+          <a href="/miscellany#{{ fact.id }}">
+            <li class="fact">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="1em"
+                height="1em"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fill="currentColor"
+                  d="M7.987 16a1.53 1.53 0 0 1-1.07-.448L.45 9.082a1.53 1.53 0 0 1 0-2.165L6.917.45a1.53 1.53 0 0 1 2.166 0l6.469 6.468A1.53 1.53 0 0 1 16 8.013a1.53 1.53 0 0 1-.448 1.07l-6.47 6.469A1.53 1.53 0 0 1 7.988 16zM7.639 1.17L4.766 4.044L8 7.278l3.234-3.234L8.361 1.17a.51.51 0 0 0-.722 0M8.722 8l3.234 3.234l2.873-2.873c.2-.2.2-.523 0-.722l-2.873-2.873zM8 8.722l-3.234 3.234l2.873 2.873c.2.2.523.2.722 0l2.873-2.873zM7.278 8L4.044 4.766L1.17 7.639a.51.51 0 0 0 0 .722l2.874 2.873z"
+                />
+              </svg>
+              {{ fact.title }}
+            </li>
+          </a>
+        {% endfor %}
+      </ul>
+    </section>
+  </main>
+{% endblock content %}

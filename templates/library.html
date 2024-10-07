@@ -1,0 +1,40 @@
+{%- extends "base.html" -%}
+{%- block title %}
+  {{ page.title }}
+{% endblock title -%}
+{% block content %}
+  <main class="library">
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+      <p class="subtitle">
+        Books I have read that I love, ordered by most recently read
+      </p>
+    </hgroup>
+    <section class="books-grid">
+      {%- set books = load_data(path="data/books.json") | sort(attribute="date_read") | reverse -%}
+      {% for book in books %}
+        <div class="book" id="{{ book.id }}">
+          <picture class="cover">
+            <source srcset="{{ book.cover_avif }}" />
+            {%- if loop.index < 8 -%}
+              <img
+                src="{{ book.cover_jpg }}"
+                alt="Cover of '{{ book.title }}'"
+                height="345"
+              />
+            {%- else -%}
+              <img
+                src="{{ book.cover_jpg }}"
+                alt="Cover of '{{ book.title }}'"
+                height="345"
+                loading="lazy"
+              />
+            {%- endif -%}
+          </picture>
+          <p class="title">{{ book.title }}</p>
+          <p class="author">{{ book.author }}</p>
+        </div>
+      {% endfor %}
+    </section>
+  </main>
+{% endblock content %}

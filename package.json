@@ -1,12 +1,6 @@
 {
-  "name": "nwj.sh",
-  "repository": "git@github.com:nwj/nwj.sh.git",
-  "author": "Nick Willett-Jeffries <nwillettjeffries@gmail.com>",
-  "private": true,
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.21",
-    "postcss-cli": "^10.1.0",
-    "tailwindcss": "^3.3.1"
+    "prettier": "3.3.3",
+    "prettier-plugin-jinja-template": "2.0.0"
   }
 }

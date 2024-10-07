@@ -1,7 +1,5 @@
 # NWJ.sh
 
-### by nwj
-
 This is the code for my personal site, hosted at [nwj.sh](https://nwj.sh)
 
 ### Development
@@ -9,7 +7,7 @@ This is the code for my personal site, hosted at [nwj.sh](https://nwj.sh)
 #### On MacOS
 
 ```
-brew install hugo node
+brew install zola node
 npm install
-hugo server
+zola serve
 ```
