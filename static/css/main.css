@@ -386,23 +386,13 @@ main {
     .miscellany {
       grid-area: misc;
 
-      a:hover {
-        color: var(--color-link-main);
-
-        .fact {
-          border-bottom: 1px solid var(--color-link-accent);
-        }
-      }
-
-      a:last-child {
-        .fact {
-          border: none;
-        }
-      }
-
       ul {
         padding: unset;
         list-style: none;
+      }
+
+      li:last-child .fact {
+        border: none;
       }
 
       .fact {
@@ -413,6 +403,11 @@ main {
         font-size: var(--font-size-s);
         padding: var(--space-xs) 0;
         border-bottom: 1px solid var(--color-stone-300);
+
+        &:hover {
+          color: var(--color-link-main);
+          border-bottom: 1px solid var(--color-link-accent);
+        }
       }
     }
   }
@@ -684,7 +679,6 @@ article {
     }
 
     .copyright {
-      color: var(--color-text-understated);
       margin: 0 auto;
     }
   }
@@ -695,15 +689,11 @@ article {
     justify-items: center;
     gap: var(--space-2xs) var(--space-m);
 
-    a {
-      color: var(--color-text-understated);
-
-      &:hover {
-        color: var(--color-link-main);
-        text-decoration: underline;
-        text-decoration-color: var(--color-link-accent);
-        text-decoration-thickness: 2px;
-      }
+    a:hover {
+      color: var(--color-link-main);
+      text-decoration: underline;
+      text-decoration-color: var(--color-link-accent);
+      text-decoration-thickness: 2px;
     }
   }
 }
