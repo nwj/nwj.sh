@@ -666,7 +666,7 @@ article {
       }
     }
 
-    .social-nav {
+    .external-links-nav {
       display: flex;
       justify-content: center;
       gap: var(--space-xs);
