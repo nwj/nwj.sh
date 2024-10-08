@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% block title %}{% endblock title %} - NWJ</title>
+    <meta
+      name="description"
+      content="Personal website of Nick Willett-Jeffries"
+    />
     <link
       rel="stylesheet"
       href="{{ get_url(path='css/main.css', cachebust=true) }}"
@@ -58,8 +62,8 @@
             <span>Subscribe via RSS Feed</span>
           </a>
         </div>
-        <nav class="social-nav">
-          <a href="https://github.com/nwj">
+        <nav class="external-links-nav">
+          <a href="https://github.com/nwj" aria-label="NWJ's GitHub Profile">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="25"
@@ -73,7 +77,10 @@
               />
             </svg>
           </a>
-          <a href="https://www.linkedin.com/in/nwillettjeffries/">
+          <a
+            href="https://www.linkedin.com/in/nwillettjeffries/"
+            aria-label="NWJ's LinkedIn Profile"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="25"

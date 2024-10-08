@@ -88,8 +88,8 @@
       <ul>
         {%- set miscellany = load_data(path="data/miscellany.json") | sort(attribute="date") | reverse | slice(end=12) -%}
         {% for fact in miscellany %}
-          <a href="/miscellany#{{ fact.id }}">
-            <li class="fact">
+          <li>
+            <a href="/miscellany#{{ fact.id }}" class="fact">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="1em"
@@ -102,8 +102,8 @@
                 />
               </svg>
               {{ fact.title }}
-            </li>
-          </a>
+            </a>
+          </li>
         {% endfor %}
       </ul>
     </section>
