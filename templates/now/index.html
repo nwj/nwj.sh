@@ -8,7 +8,7 @@
         A log of what I've been up to lately, periodically updated
       </p>
     </hgroup>
-    {%- for page in section.pages -%}
+    {%- for page in section.pages | sort(attribute="date") | reverse -%}
       <h2>{{ page.title }}</h2>
       {{ page.content | safe }}
     {%- endfor -%}

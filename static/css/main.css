@@ -64,6 +64,8 @@
   --font-logo: Merriweather, serif;
   --font-sans-serif: system-ui, sans-serif;
   --font-serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
+  --font-monospace: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo,
+    Consolas, "DejaVu Sans Mono", monospace;
 
   --space-3xs: clamp(0.3125rem, 0.3125rem + 0vw, 0.3125rem);
   --space-2xs: clamp(0.5625rem, 0.5408rem + 0.1087vw, 0.625rem);
@@ -487,6 +489,11 @@ article {
     overflow-wrap: break-word;
   }
 
+  code {
+    font-family: var(--font-monospace);
+    font-size: 0.9em;
+  }
+
   blockquote {
     display: flex;
     flex-direction: column;
@@ -570,10 +577,6 @@ article {
 
     .note-label {
       cursor: default;
-    }
-
-    .margin-note-label {
-      display: none;
     }
 
     h1,
