@@ -526,9 +526,7 @@ article {
   .margin-note {
     display: none;
     margin: var(--space-xs);
-  }
 
-  .sidenote {
     sup {
       display: none;
     }
@@ -559,7 +557,7 @@ article {
       margin: -1.5rem 0 0 0;
       padding-right: var(--space-m);
 
-      .note-superscript {
+      sup {
         display: inline;
       }
 

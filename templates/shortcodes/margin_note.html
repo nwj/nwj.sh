@@ -1,10 +1,10 @@
-{% set id = get_random(end=999999999) %}
-<label for="margin-note-{{ id }}" class="note-label margin-note-label"
-  ><sup class="note-superscript">
-    <svg
+{%- set id = get_random(end=999999999) -%}
+<label for="margin-note-{{ id }}" class="note-label"
+  ><sup
+    ><svg
       xmlns="http://www.w3.org/2000/svg"
-      width="1em"
-      height="1em"
+      width="0.75em"
+      height="0.75em"
       viewBox="0 0 16 16"
     >
       <path
@@ -14,11 +14,11 @@
 ></label>
 <input id="margin-note-{{ id }}" class="note-toggle" type="checkbox" />
 <span class="margin-note">
-  <sup class="note-superscript">
+  <sup>
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="1em"
-      height="1em"
+      width="0.75em"
+      height="0.75em"
       viewBox="0 0 16 16"
     >
       <path
