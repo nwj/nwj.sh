@@ -1,5 +1,23 @@
 [
   {
+    "id": "latin_obscenities",
+    "title": "Latin Obscenities",
+    "date": "2024-12-24",
+    "content": "[The wikipedia page](https://en.wikipedia.org/wiki/Latin_obscenity) on obscene Latin vocabulary is...impressively comprehensive."
+  },
+  {
+    "id": "empire_state_building_crash",
+    "title": "Empire State Building Crash",
+    "date": "2024-12-24",
+    "content": "Remember [that time](https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash) a B-25 bomber crashed full-on into the 80th floor of the Empire State Building?"
+  },
+  {
+    "id": "hansen_writing_ball",
+    "title": "The Hansen Writing Ball",
+    "date": "2024-12-24",
+    "content": "The first commercially successful typewriter was the (delightfully crazy-looking) [Hansen Writing Ball](https://en.wikipedia.org/wiki/Hansen_Writing_Ball)."
+  },
+  {
     "id": "operation_mincemeat",
     "title": "Operation Mincemeat",
     "date": "2024-09-02",
@@ -12,7 +30,7 @@
     "content": "[SEAL Team Six](https://en.wikipedia.org/wiki/SEAL_Team_Six#History) was actually the third SEAL team formed by the US Navy. They went with \"Six\" in an attempt to confuse Soviet intelligence."
   },
   {
-    "id": "chess-astronomy",
+    "id": "chess_astrology",
     "title": "Chess Astrology",
     "date": "2024-05-14",
     "content": "Why not [add some numerology and astrology to](https://www.chessprogramming.org/Influence_Quantity_of_Pieces#Analogy_in_Astronomy) your chess programming?"
